@@ -33,10 +33,6 @@ Build the MIMIC database with sharing repo https://github.com/MIT-LCP/mimic-code
 
 ## Model training and testing
 
-We provide the following resources for reproducing the results from our paper (requires Google Account):
-* the intermediate tables from MIMIC-IV database at Google Drive (TODO)
-* the trained models at Google Drive (TODO)
-
 Main codes are in `data-leakage/notebooks/`. Run the notebook from scratch as follows:
 1. Check `creds.json`: it contains the credentials for connecting MIMIC-IV database. 
 2. Execute `icd_model.ipynb`. 
