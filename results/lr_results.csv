@@ -1,67 +1,67 @@
 feature,or,ci_lower,ci_upper,p_value,adjusted_p_value
-"Subdural hemorrhage following injury without mention of open intracranial wound, with prolonged (more than 24 hours) loss of consciousness without return to pre-existing conscious level",389.992,28.786,5283.554,0.0,0.0
-Cardiac arrest,219.579,159.608,302.084,0.0,0.0
+"Subdural hemorrhage following injury without mention of open intracranial wound, with prolonged (more than 24 hours) loss of consciousness without return to pre-existing conscious level",389.992,28.786,5283.588,0.0,0.0
+Cardiac arrest,219.577,159.606,302.081,0.0,0.0
 Brain death,112.776,13.42,947.7,0.0,0.0
 Encounter for palliative care,98.037,83.158,115.579,0.0,0.0
-Transient visual loss,96.115,45.581,202.676,0.0,0.0
-"Renal sclerosis, unspecified",69.832,43.918,111.037,0.0,0.0
-Unspecified intracranial hemorrhage,59.517,32.956,107.486,0.0,0.0
-Acute maxillary sinusitis,37.234,12.361,112.163,0.0,0.0
-Chronic glomerulonephritis with unspecified pathological lesion in kidney,36.298,15.767,83.561,0.0,0.0
-"Abdominal aneurysm, ruptured",30.897,14.75,64.718,0.0,0.0
-"Postoperative shock, cardiogenic",28.644,15.669,52.365,0.0,0.0
-Influenza due to identified avian influenza virus with other respiratory manifestations,26.001,11.719,57.689,0.0,0.0
-Other abnormality of urination,25.949,13.064,51.54,0.0,0.0
+Transient visual loss,96.12,45.583,202.685,0.0,0.0
+"Renal sclerosis, unspecified",69.83,43.917,111.034,0.0,0.0
+Unspecified intracranial hemorrhage,59.516,32.955,107.483,0.0,0.0
+Acute maxillary sinusitis,37.236,12.361,112.167,0.0,0.0
+Chronic glomerulonephritis with unspecified pathological lesion in kidney,36.299,15.768,83.564,0.0,0.0
+"Abdominal aneurysm, ruptured",30.896,14.75,64.717,0.0,0.0
+"Postoperative shock, cardiogenic",28.644,15.668,52.364,0.0,0.0
+Influenza due to identified avian influenza virus with other respiratory manifestations,26.002,11.719,57.69,0.0,0.0
+Other abnormality of urination,25.949,13.064,51.541,0.0,0.0
 Intracerebral hemorrhage,25.845,21.83,30.598,0.0,0.0
-Non-pressure chronic ulcer of other part of right foot with other specified severity,25.702,6.97,94.777,0.0,0.0
-Ulcer of thigh,22.749,9.761,53.016,0.0,0.0
+Non-pressure chronic ulcer of other part of right foot with other specified severity,25.703,6.97,94.78,0.0,0.0
+Ulcer of thigh,22.749,9.761,53.017,0.0,0.0
 "Acute myeloid leukemia, in relapse",21.79,13.21,35.943,0.0,0.0
-"Viral hepatitis B with hepatic coma, acute or unspecified, without mention of hepatitis delta",21.682,7.213,65.18,0.0,0.0
-"Unspecified drug dependence, unspecified",20.961,7.809,56.266,0.0,0.0
-Acute and chronic respiratory failure,20.659,14.435,29.569,0.0,0.0
+"Viral hepatitis B with hepatic coma, acute or unspecified, without mention of hepatitis delta",21.683,7.213,65.181,0.0,0.0
+"Unspecified drug dependence, unspecified",20.962,7.809,56.267,0.0,0.0
+Acute and chronic respiratory failure,20.66,14.435,29.569,0.0,0.0
 "Dissection of aorta, thoracoabdominal",19.304,10.085,36.951,0.0,0.0
-"Diverticulum of esophagus, acquired",19.242,10.828,34.194,0.0,0.0
-Personal history of lymphoid leukemia,18.786,6.988,50.506,0.0,0.0
-"Chronic osteomyelitis, pelvic region and thigh",18.698,8.642,40.459,0.0,0.0
+"Diverticulum of esophagus, acquired",19.243,10.829,34.195,0.0,0.0
+Personal history of lymphoid leukemia,18.786,6.988,50.507,0.0,0.0
+"Chronic osteomyelitis, pelvic region and thigh",18.699,8.642,40.46,0.0,0.0
 Compression of brain,18.456,14.695,23.18,0.0,0.0
 Cardiogenic shock,17.676,14.054,22.231,0.0,0.0
-"Acute myocardial infarction of other specified sites, initial episode of care",17.569,6.401,48.223,0.0,0.0
-"Other and unspecified intracranial hemorrhage following injury without mention of open intracranial wound, unspecified state of consciousness",17.257,7.505,39.68,0.0,0.0
-"Extradural hemorrhage following injury without mention of open intracranial wound, with no loss of consciousness",16.868,5.507,51.669,0.0,0.0
-"Acquired absence of organ, eye",16.535,6.087,44.913,0.0,0.0
+"Acute myocardial infarction of other specified sites, initial episode of care",17.569,6.401,48.224,0.0,0.0
+"Other and unspecified intracranial hemorrhage following injury without mention of open intracranial wound, unspecified state of consciousness",17.257,7.505,39.681,0.0,0.0
+"Extradural hemorrhage following injury without mention of open intracranial wound, with no loss of consciousness",16.869,5.507,51.67,0.0,0.0
+"Acquired absence of organ, eye",16.535,6.087,44.914,0.0,0.0
 Ventricular fibrillation,16.153,11.4,22.889,0.0,0.0
 "Other malignant lymphomas, lymph nodes of head, face, and neck",15.59,8.568,28.367,0.0,0.0
 Other antiprotozoal drugs causing adverse effects in therapeutic use,14.971,6.034,37.143,0.0,0.0
 "Shock, unspecified",14.815,10.196,21.528,0.0,0.0
-Tachypnea,13.911,8.719,22.195,0.0,0.0
-Rupture of artery,13.594,4.102,45.056,0.0,0.0
-"Closed fracture of base of skull with subarachnoid, subdural, and extradural hemorrhage, unspecified state of consciousness",13.321,5.826,30.46,0.0,0.0
+Tachypnea,13.911,8.719,22.194,0.0,0.0
+Rupture of artery,13.594,4.102,45.057,0.0,0.0
+"Closed fracture of base of skull with subarachnoid, subdural, and extradural hemorrhage, unspecified state of consciousness",13.321,5.826,30.461,0.0,0.0
 Subarachnoid hemorrhage,13.245,10.287,17.053,0.0,0.0
-"Benign neoplasm of duodenum, jejunum, and ileum",13.085,7.095,24.134,0.0,0.0
-C5-C7 level with central cord syndrome,12.823,3.371,48.786,0.0,0.0
-Malignant neoplasm of other specified part of esophagus,12.749,7.558,21.507,0.0,0.0
-Do not resuscitate status,12.66,11.742,13.649,0.0,0.0
+"Benign neoplasm of duodenum, jejunum, and ileum",13.086,7.095,24.134,0.0,0.0
+C5-C7 level with central cord syndrome,12.824,3.371,48.787,0.0,0.0
+Malignant neoplasm of other specified part of esophagus,12.749,7.557,21.507,0.0,0.0
+Do not resuscitate status,12.659,11.741,13.649,0.0,0.0
 "Acute myeloid leukemia, without mention of having achieved remission",12.558,9.552,16.51,0.0,0.0
-Acute respiratory failure,12.413,11.064,13.927,0.0,0.0
-Lesion of lateral popliteal nerve,12.158,4.578,32.289,0.0,0.0
-"Dissection of aorta, thoracic",12.151,8.282,17.829,0.0,0.0
+Acute respiratory failure,12.413,11.063,13.927,0.0,0.0
+Lesion of lateral popliteal nerve,12.159,4.578,32.289,0.0,0.0
+"Dissection of aorta, thoracic",12.151,8.282,17.828,0.0,0.0
 Acquired cardiac septal defect,12.054,3.69,39.376,0.0,0.0
-Left heart failure,11.983,5.499,26.11,0.0,0.0
+Left heart failure,11.983,5.499,26.111,0.0,0.0
 Acute cor pulmonale,11.973,5.221,27.457,0.0,0.0
-Other specified dermatoses,11.953,3.608,39.604,0.0,0.0
+Other specified dermatoses,11.953,3.608,39.605,0.0,0.0
 "Complications affecting other specified body systems, not elsewhere classified",11.942,5.001,28.517,0.0,0.0
-Other somatoform disorders,11.35,3.468,37.148,0.0,0.0
-Open fracture of shaft of tibia alone,11.32,4.475,28.635,0.0,0.0
+Other somatoform disorders,11.351,3.468,37.148,0.0,0.0
+Open fracture of shaft of tibia alone,11.32,4.475,28.636,0.0,0.0
 Traumatic shock,11.123,5.499,22.5,0.0,0.0
-Contact dermatitis and other eczema due to drugs and medicines in contact with skin,11.112,3.07,40.219,0.0,0.0
+Contact dermatitis and other eczema due to drugs and medicines in contact with skin,11.112,3.07,40.22,0.0,0.0
 Defibrination syndrome,10.95,6.942,17.273,0.0,0.0
-Kyphosis associated with other conditions,10.839,4.165,28.206,0.0,0.0
+Kyphosis associated with other conditions,10.839,4.166,28.206,0.0,0.0
 Tabes dorsalis,10.66,4.516,25.163,0.0,0.0
-Scabies,10.416,3.908,27.762,0.0,0.0
+Scabies,10.417,3.908,27.763,0.0,0.0
 Respiratory arrest,10.334,3.509,30.437,0.0,0.0
 Lung involvement in other diseases classified elsewhere,10.177,6.198,16.712,0.0,0.0
 Anoxic brain damage,9.742,6.209,15.284,0.0,0.0
-Hemophagocytic syndromes,9.679,4.421,21.187,0.0,0.0
+Hemophagocytic syndromes,9.679,4.421,21.188,0.0,0.0
 Other specified diseases of pulmonary circulation,9.65,3.691,25.225,0.0,0.0
 Ulcer of esophagus with bleeding,9.647,5.121,18.172,0.0,0.0
 "Other pulmonary insufficiency, not elsewhere classified",9.628,6.871,13.491,0.0,0.0
@@ -71,29 +71,29 @@ Malignant neoplasm of other parts of bronchus or lung,9.576,7.48,12.258,0.0,0.0
 "Malignant neoplasm of uterus, part unspecified",9.398,4.076,21.667,0.0,0.0
 "Closed fracture of mandible, unspecified site",9.198,2.956,28.627,0.0,0.0
 "Paralysis, unspecified",8.957,3.467,23.137,0.0,0.0
-Senile dementia with delirium,8.682,4.053,18.599,0.0,0.0
+Senile dementia with delirium,8.682,4.053,18.6,0.0,0.0
 Other shock without mention of trauma,8.622,6.715,11.072,0.0,0.0
 Acute and chronic respiratory failure following trauma and surgery,8.613,6.492,11.428,0.0,0.0
 Other specified disorders of male genital organs,8.604,3.333,22.209,0.0,0.0
 "Generalized convulsive epilepsy, with intractable epilepsy",8.528,4.152,17.518,0.0,0.0
-Brain conditions nec,8.499,4.4,16.417,0.0,0.0
+Brain conditions nec,8.5,4.4,16.417,0.0,0.0
 Disturbances of sensation of smell and taste,8.349,2.978,23.408,0.0,0.0
 Closed fracture of midcervical section of neck of femur,8.233,3.774,17.96,0.0,0.0
 "Renal failure, unspecified",8.159,3.995,16.663,0.0,0.0
-Opiate antagonists causing adverse effects in therapeutic use,7.984,2.563,24.87,0.0,0.0
+Opiate antagonists causing adverse effects in therapeutic use,7.984,2.563,24.871,0.0,0.0
 Atherosclerosis of autologous vein bypass graft of the extremities,7.963,5.048,12.562,0.0,0.0
 Closed fracture of first cervical vertebra,7.888,4.761,13.07,0.0,0.0
 "Burkitt's tumor or lymphoma, unspecified site, extranodal and solid organ sites",7.803,3.883,15.681,0.0,0.0
 Malignant neoplasm of lower third of esophagus,7.748,3.641,16.488,0.0,0.0
-Ventricular septal defect,7.507,3.232,17.436,0.0,0.0
-"Closed fracture of vault of skull without mention of intracranial injury, unspecified state of consciousness",7.475,2.768,20.188,0.0,0.0
+Ventricular septal defect,7.508,3.232,17.436,0.0,0.0
+"Closed fracture of vault of skull without mention of intracranial injury, unspecified state of consciousness",7.475,2.768,20.189,0.0,0.0
 "Foreign body in respiratory tree, unspecified",7.459,4.598,12.1,0.0,0.0
 "Septicemia due to gram-negative organism, unspecified",7.447,3.693,15.015,0.0,0.0
-"Narcolepsy, without cataplexy",7.385,3.407,16.011,0.0,0.0
+"Narcolepsy, without cataplexy",7.386,3.407,16.012,0.0,0.0
 Flaccid hemiplegia and hemiparesis affecting unspecified side,7.384,3.17,17.201,0.0,0.0
 Closed fracture of third cervical vertebra,7.292,3.447,15.424,0.0,0.0
-Infected postoperative seroma,7.253,3.436,15.313,0.0,0.0
-Acute pulmonary manifestations due to radiation,7.073,2.471,20.245,0.0,0.0
+Infected postoperative seroma,7.254,3.436,15.314,0.0,0.0
+Acute pulmonary manifestations due to radiation,7.074,2.471,20.245,0.0,0.0
 Other specified disorders resulting from impaired renal function,6.935,3.674,13.092,0.0,0.0
 Other specified disorders of the teeth and supporting structures,6.849,3.545,13.231,0.0,0.0
 "Quadriplegia, unspecified",6.828,4.108,11.348,0.0,0.0
@@ -115,10 +115,10 @@ Systemic inflammatory response syndrome due to noninfectious process with acute 
 Functional disturbances following cardiac surgery,5.893,3.689,9.413,0.0,0.0
 Perforation of intestine,5.892,3.813,9.106,0.0,0.0
 "Hodgkin's disease, unspecified type, unspecified site, extranodal and solid organ sites",5.879,3.898,8.867,0.0,0.0
-Malignant neoplasm of specified parts of peritoneum,5.859,2.555,13.437,0.0,0.0
+Malignant neoplasm of specified parts of peritoneum,5.859,2.555,13.438,0.0,0.0
 Chronic vascular insufficiency of intestine,5.763,4.018,8.267,0.0,0.0
 Cardiotonic glycosides and drugs of similar action causing adverse effects in therapeutic use,5.741,2.884,11.429,0.0,0.0
-"Intracranial injury of other and unspecified nature without mention of open intracranial wound, with no loss of consciousness",5.649,2.178,14.648,0.0,0.0
+"Intracranial injury of other and unspecified nature without mention of open intracranial wound, with no loss of consciousness",5.649,2.178,14.649,0.0,0.0
 Nutritional and metabolic cardiomyopathy,5.631,2.469,12.843,0.0,0.0
 Closed fracture of seven ribs,5.598,2.325,13.482,0.0,0.0
 "Accidental puncture or laceration during a procedure, not elsewhere classified",5.52,3.973,7.67,0.0,0.0
@@ -127,13 +127,13 @@ Acute respiratory failure following trauma and surgery,5.46,4.766,6.254,0.0,0.0
 "Cerebral artery occlusion, unspecified with cerebral infarction",5.458,4.558,6.535,0.0,0.0
 "Calculus of bile duct with other cholecystitis, with obstruction",5.42,2.319,12.665,0.0,0.0
 "Acquired hemolytic anemia, unspecified",5.404,3.367,8.674,0.0,0.0
-Cerebral degeneration in diseases classified elsewhere,5.353,2.204,13.005,0.0,0.0
+Cerebral degeneration in diseases classified elsewhere,5.354,2.204,13.005,0.0,0.0
 Accidental fall on or from other stairs or steps,5.352,4.337,6.604,0.0,0.0
-Accidental fall on or from sidewalk curb,5.299,2.551,11.008,0.0,0.0
+Accidental fall on or from sidewalk curb,5.299,2.551,11.009,0.0,0.0
 Mechanical complication of colostomy and enterostomy,5.261,2.578,10.738,0.0,0.0
-Closed fracture of one or more phalanges of foot,5.097,2.306,11.268,0.0,0.0
+Closed fracture of one or more phalanges of foot,5.097,2.306,11.269,0.0,0.0
 "Hemarthrosis, lower leg",5.083,2.069,12.486,0.0,0.0
-Acute kidney failure with other specified pathological lesion in kidney,4.964,2.472,9.97,0.0,0.0
+Acute kidney failure with other specified pathological lesion in kidney,4.964,2.472,9.971,0.0,0.0
 "Esophageal varices in diseases classified elsewhere, with bleeding",4.931,3.348,7.264,0.0,0.0
 Overflow incontinence,4.859,2.023,11.672,0.0,0.0
 Mitral valve insufficiency and aortic valve insufficiency,4.775,3.362,6.782,0.0,0.0
@@ -154,7 +154,7 @@ Unspecified vascular insufficiency of intestine,4.26,2.961,6.129,0.0,0.0
 Arterial embolism and thrombosis of upper extremity,4.19,2.291,7.665,0.0,0.0
 "Stomatitis and mucositis, unspecified",4.168,2.784,6.242,0.0,0.0
 Chronic ulcer of unspecified site,4.166,1.983,8.752,0.0,0.0
-"Multiple myeloma, in relapse",4.164,2.172,7.982,0.0,0.0
+"Multiple myeloma, in relapse",4.164,2.172,7.983,0.0,0.0
 Thoracic aortic ectasia,4.159,1.945,8.895,0.0,0.0
 Hypothermia not associated with low environmental temperature,4.088,2.519,6.636,0.0,0.0
 Dementia with lewy bodies,4.066,2.704,6.114,0.0,0.0
@@ -181,23 +181,23 @@ Procedure not carried out for other reasons,3.718,2.324,5.946,0.0,0.0
 "Chondrocalcinosis, unspecified, site unspecified",3.683,1.808,7.5,0.0,0.0
 "Hemorrhage of gastrointestinal tract, unspecified",3.638,3.047,4.344,0.0,0.0
 "Other and unspecified disc disorder, lumbar region",3.578,2.013,6.36,0.0,0.0
-Closed fracture of four ribs,3.575,1.977,6.462,0.0,0.0
+Closed fracture of four ribs,3.574,1.977,6.462,0.0,0.0
 "Subdural hemorrhage following injury without mention of open intracranial wound, with loss of consciousness of unspecified duration",3.568,2.324,5.479,0.0,0.0
 Chronic hypotension,3.551,2.366,5.328,0.0,0.0
 Methicillin resistant Staphylococcus aureus septicemia,3.522,2.214,5.602,0.0,0.0
 Aneurysm of artery of lower extremity,3.517,2.343,5.281,0.0,0.0
-"Alcoholic liver damage, unspecified",3.465,2.104,5.705,0.0,0.0
+"Alcoholic liver damage, unspecified",3.464,2.104,5.705,0.0,0.0
 "Viremia, unspecified",3.437,2.038,5.799,0.0,0.0
 Hypotension of hemodialysis,3.414,2.088,5.581,0.0,0.0
 Pneumonitis due to inhalation of food or vomitus,3.407,3.017,3.847,0.0,0.0
 "Other complications due to renal dialysis device, implant, and graft",3.382,2.625,4.359,0.0,0.0
 Bladder neck obstruction,3.379,1.987,5.744,0.0,0.0
-Other spontaneous pneumothorax,3.358,1.926,5.856,0.0,0.0
+Other spontaneous pneumothorax,3.358,1.926,5.855,0.0,0.0
 Arterial embolism and thrombosis of lower extremity,3.351,2.383,4.712,0.0,0.0
 "Pressure ulcer, unspecified stage",3.332,2.145,5.175,0.0,0.0
 "Chronic or unspecified duodenal ulcer with hemorrhage, without mention of obstruction",3.33,2.2,5.038,0.0,0.0
 Nonspecific low blood pressure reading,3.326,1.766,6.266,0.0,0.0
-"Hypotension, unspecified",3.321,2.992,3.687,0.0,0.0
+"Hypotension, unspecified",3.321,2.991,3.687,0.0,0.0
 "Subdural hemorrhage following injury without mention of open intracranial wound, with no loss of consciousness",3.318,2.637,4.175,0.0,0.0
 Severe sepsis,3.286,2.738,3.945,0.0,0.0
 "Unspecified osteomyelitis, ankle and foot",3.283,2.059,5.233,0.0,0.0
@@ -221,7 +221,7 @@ Obstructive hydrocephalus,3.046,2.32,4.0,0.0,0.0
 Other anxiety states,3.032,1.961,4.687,0.0,0.0
 Coma,3.016,1.72,5.289,0.0,0.0
 Closed fracture of orbital floor (blow-out),2.98,1.832,4.846,0.0,0.0
-Personal history of malignant neoplasm of brain,2.979,1.667,5.325,0.0,0.0
+Personal history of malignant neoplasm of brain,2.979,1.667,5.326,0.0,0.0
 "Pressure ulcer, stage III",2.971,1.958,4.507,0.0,0.0
 "Hypoglycemia, unspecified",2.919,2.131,3.999,0.0,0.0
 "Subdural hemorrhage following injury without mention of open intracranial wound, unspecified state of consciousness",2.918,1.802,4.725,0.0,0.0
@@ -297,10 +297,10 @@ Alzheimer's disease,1.918,1.365,2.695,0.0,0.0
 "Congestive heart failure, unspecified",1.893,1.712,2.093,0.0,0.0
 Bacteremia of newborn,1.877,1.343,2.622,0.0,0.0
 Acute and subacute necrosis of liver,1.871,1.456,2.403,0.0,0.0
-Bacteremia,1.858,1.529,2.258,0.0,0.0
+Bacteremia,1.858,1.53,2.258,0.0,0.0
 Pancytopenia,1.855,1.467,2.346,0.0,0.0
 "Late effects of cerebrovascular disease, hemiplegia affecting nondominant side",1.843,1.322,2.569,0.0,0.0
-"Fall from other slipping, tripping, or stumbling",1.814,1.528,2.153,0.0,0.0
+"Fall from other slipping, tripping, or stumbling",1.814,1.528,2.152,0.0,0.0
 Chronic pancreatitis,1.804,1.444,2.254,0.0,0.0
 Peritoneal effusion (chronic),1.79,1.367,2.342,0.0,0.0
 "Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease",1.782,1.315,2.414,0.0,0.0
@@ -601,7 +601,7 @@ Acute appendicitis without mention of peritonitis,0.096,0.033,0.278,0.0,0.0
 Regional enteritis of small intestine,0.093,0.031,0.282,0.0,0.0
 "Accidental cut, puncture, perforation or hemorrhage during surgical operation",0.091,0.039,0.212,0.0,0.0
 Unspecified episodic mood disorder,0.09,0.046,0.175,0.0,0.0
-Benign neoplasm of adrenal gland,0.089,0.035,0.229,0.0,0.0
+Benign neoplasm of adrenal gland,0.089,0.035,0.228,0.0,0.0
 Diverticulosis of small intestine (without mention of hemorrhage),0.089,0.024,0.334,0.0,0.0
 Anomalies of cerebrovascular system,0.087,0.036,0.215,0.0,0.0
 Unspecified sleep apnea,0.087,0.042,0.184,0.0,0.0
@@ -641,21 +641,21 @@ Memory loss,0.026,0.009,0.071,0.0,0.0
 Nonspecific abnormal electrocardiogram (ECG) (EKG),0.016,0.006,0.046,0.0,0.0
 Encounter for antineoplastic immunotherapy,0.016,0.006,0.045,0.0,0.0
 "Infection with drug-resistant microorganisms, unspecified, without mention of multiple drug resistance",9.809,2.411,39.909,0.001,0.005214285714285715
-Occlusion and stenosis of other specified precerebral artery with cerebral infarction,8.46,2.412,29.681,0.001,0.005214285714285715
-Congenital factor IX disorder,7.747,2.298,26.12,0.001,0.005214285714285715
-Chronic glomerulonephritis in diseases classified elsewhere,7.181,2.328,22.151,0.001,0.005214285714285715
-"Schizophrenic disorders, residual type, unspecified",6.974,2.204,22.064,0.001,0.005214285714285715
+Occlusion and stenosis of other specified precerebral artery with cerebral infarction,8.461,2.412,29.681,0.001,0.005214285714285715
+Congenital factor IX disorder,7.748,2.298,26.12,0.001,0.005214285714285715
+Chronic glomerulonephritis in diseases classified elsewhere,7.181,2.328,22.152,0.001,0.005214285714285715
+"Schizophrenic disorders, residual type, unspecified",6.974,2.204,22.065,0.001,0.005214285714285715
 Genetic susceptibility to other malignant neoplasm,6.365,2.125,19.061,0.001,0.005214285714285715
 Late effects of intracranial abscess or pyogenic infection,6.042,2.042,17.879,0.001,0.005214285714285715
-Lichen planus,5.068,1.949,13.178,0.001,0.005214285714285715
+Lichen planus,5.068,1.949,13.179,0.001,0.005214285714285715
 Attention to other artificial opening of urinary tract,4.46,1.918,10.367,0.001,0.005214285714285715
 Occlusion and stenosis of vertebral artery with cerebral infarction,4.418,1.889,10.333,0.001,0.005214285714285715
 Empyema with fistula,4.41,1.911,10.18,0.001,0.005214285714285715
-Other generalized ischemic cerebrovascular disease,4.061,1.798,9.173,0.001,0.005214285714285715
+Other generalized ischemic cerebrovascular disease,4.062,1.798,9.173,0.001,0.005214285714285715
 Estrogen receptor negative status (ER-),4.016,1.768,9.122,0.001,0.005214285714285715
 Deficiency of vitamin K,3.761,1.756,8.053,0.001,0.005214285714285715
 Peritonitis (acute) generalized,3.724,1.701,8.154,0.001,0.005214285714285715
-"Other malignant lymphomas, intra-abdominal lymph nodes",3.602,1.636,7.929,0.001,0.005214285714285715
+"Other malignant lymphomas, intra-abdominal lymph nodes",3.602,1.636,7.93,0.001,0.005214285714285715
 "Arteriovenous fistula, acquired",3.395,1.68,6.861,0.001,0.005214285714285715
 Foreign body in main bronchus,2.999,1.607,5.595,0.001,0.005214285714285715
 Anemias due to disorders of glutathione metabolism,2.963,1.536,5.714,0.001,0.005214285714285715
@@ -671,7 +671,7 @@ Ulcer of ankle,1.988,1.315,3.004,0.001,0.005214285714285715
 "Infection and inflammatory reaction due to other vascular device, implant, and graft",1.932,1.297,2.879,0.001,0.005214285714285715
 Anorexia,1.706,1.253,2.322,0.001,0.005214285714285715
 Other opiates and related narcotics causing adverse effects in therapeutic use,1.703,1.232,2.354,0.001,0.005214285714285715
-"Chronic lymphoid leukemia, without mention of having achieved remission",1.579,1.211,2.057,0.001,0.005214285714285715
+"Chronic lymphoid leukemia, without mention of having achieved remission",1.579,1.212,2.057,0.001,0.005214285714285715
 Epistaxis,1.566,1.206,2.033,0.001,0.005214285714285715
 Ostium secundum type atrial septal defect,1.507,1.172,1.938,0.001,0.005214285714285715
 Paralytic ileus,1.436,1.171,1.761,0.001,0.005214285714285715
@@ -776,7 +776,7 @@ Prickly heat,0.096,0.022,0.422,0.002,0.009783505154639176
 Other vesicoureteral reflux with reflux nephropathy NOS,0.083,0.017,0.406,0.002,0.009783505154639176
 "Outcome of delivery, single liveborn",0.049,0.007,0.344,0.002,0.009783505154639176
 Generalized and unspecified atherosclerosis,6.76,1.888,24.206,0.003,0.014007380073800738
-"Osteoarthrosis, localized, primary, ankle and foot",6.286,1.901,20.779,0.003,0.014007380073800738
+"Osteoarthrosis, localized, primary, ankle and foot",6.286,1.902,20.78,0.003,0.014007380073800738
 Other injury of abdomen,6.21,1.861,20.72,0.003,0.014007380073800738
 "Malignant neoplasm of liver, not specified as primary or secondary",4.79,1.717,13.364,0.003,0.014007380073800738
 Malignant neoplasm of pancreatic duct,3.76,1.55,9.12,0.003,0.014007380073800738
@@ -858,7 +858,7 @@ Foreign body in other specified parts bronchus and lung,2.515,1.313,4.816,0.005,
 "Malignant neoplasm of brain, unspecified",2.388,1.304,4.372,0.005,0.0217162471395881
 Traumatic pneumothorax without mention of open wound into thorax,1.915,1.213,3.023,0.005,0.0217162471395881
 End stage renal disease,1.554,1.14,2.118,0.005,0.0217162471395881
-Malignant pleural effusion,1.412,1.111,1.796,0.005,0.0217162471395881
+Malignant pleural effusion,1.412,1.111,1.795,0.005,0.0217162471395881
 "Spinal stenosis, unspecified region",1.391,1.102,1.756,0.005,0.0217162471395881
 Personal history of malignant neoplasm of breast,1.187,1.054,1.336,0.005,0.0217162471395881
 Abnormality of gait,0.725,0.58,0.906,0.005,0.0217162471395881
@@ -874,7 +874,7 @@ Chronic venous embolism and thrombosis of unspecified deep vessels of lower extr
 Reaction to spinal or lumbar puncture,0.163,0.047,0.573,0.005,0.0217162471395881
 Closed fracture of lower end of radius with ulna,0.152,0.04,0.572,0.005,0.0217162471395881
 Other chronic otitis externa,6.682,1.739,25.682,0.006,0.02541964285714286
-"Effusion of joint, pelvic region and thigh",6.471,1.721,24.334,0.006,0.02541964285714286
+"Effusion of joint, pelvic region and thigh",6.471,1.721,24.335,0.006,0.02541964285714286
 Malignant neoplasm of supraglottis,6.201,1.688,22.783,0.006,0.02541964285714286
 "Other diseases of respiratory system, not elsewhere classified",3.175,1.388,7.262,0.006,0.02541964285714286
 "Malignant neoplasm of esophagus, unspecified site",2.193,1.251,3.843,0.006,0.02541964285714286
@@ -892,11 +892,11 @@ Unspecified erythematous condition,0.205,0.066,0.638,0.006,0.02541964285714286
 Unarmed fight or brawl,0.184,0.055,0.617,0.006,0.02541964285714286
 "Other complications due to other internal prosthetic device, implant, and graft",0.175,0.05,0.608,0.006,0.02541964285714286
 "Chronic kidney disease, Stage I",0.155,0.041,0.581,0.006,0.02541964285714286
-Nonspecific abnormal results of function study of kidney,0.142,0.036,0.565,0.006,0.02541964285714286
+Nonspecific abnormal results of function study of kidney,0.142,0.036,0.564,0.006,0.02541964285714286
 Unspecified personality disorder,0.127,0.029,0.547,0.006,0.02541964285714286
 Hydantoin derivatives causing adverse effects in therapeutic use,0.116,0.025,0.533,0.006,0.02541964285714286
 Open fracture of shaft of femur,5.626,1.597,19.828,0.007,0.029104052573932095
-Other myopathies,4.925,1.538,15.776,0.007,0.029104052573932095
+Other myopathies,4.926,1.538,15.776,0.007,0.029104052573932095
 "Osteoarthrosis, localized, not specified whether primary or secondary, hand",3.863,1.444,10.332,0.007,0.029104052573932095
 Coronary atherosclerosis of unspecified bypass graft,2.108,1.222,3.636,0.007,0.029104052573932095
 Arthropathy associated with neurological disorders,2.069,1.222,3.502,0.007,0.029104052573932095
@@ -940,7 +940,7 @@ Inclusion body myositis,4.588,1.446,14.56,0.01,0.0399578947368421
 Benign neoplasm of rectum and anal canal,3.055,1.308,7.131,0.01,0.0399578947368421
 "Accidental cut, puncture, perforation or hemorrhage during endoscopic examination",2.914,1.293,6.571,0.01,0.0399578947368421
 "Thoracoabdominal aneurysm, without mention of rupture",2.593,1.254,5.36,0.01,0.0399578947368421
-Chronic graft-versus-host disease,2.388,1.237,4.613,0.01,0.0399578947368421
+Chronic graft-versus-host disease,2.389,1.237,4.613,0.01,0.0399578947368421
 Other vitamin B12 deficiency anemia,1.78,1.149,2.757,0.01,0.0399578947368421
 Status post administration of tPA (rtPA) in a different facility within the last 24 hours prior to admission to current facility,1.776,1.15,2.741,0.01,0.0399578947368421
 "Body Mass Index 33.0-33.9, adult",0.465,0.259,0.832,0.01,0.0399578947368421
@@ -949,11 +949,11 @@ Intraspinal abscess,0.367,0.172,0.786,0.01,0.0399578947368421
 Intravenous anesthetics causing adverse effects in therapeutic use,0.287,0.111,0.743,0.01,0.0399578947368421
 Ulcer of anus and rectum,0.282,0.108,0.735,0.01,0.0399578947368421
 Renal osteodystrophy,0.21,0.065,0.684,0.01,0.0399578947368421
-"Subarachnoid hemorrhage following injury without mention of open intracranial wound, with prolonged (more than 24 hours) loss of consciousness without return to pre-existing conscious level",32.081,2.229,461.695,0.011,0.04313636363636363
+"Subarachnoid hemorrhage following injury without mention of open intracranial wound, with prolonged (more than 24 hours) loss of consciousness without return to pre-existing conscious level",32.081,2.229,461.698,0.011,0.04313636363636363
 "Other and unspecified cerebral laceration and contusion, without mention of open intracranial wound, with no loss of consciousness",2.449,1.23,4.875,0.011,0.04313636363636363
 Other staphylococcal septicemia,2.117,1.184,3.786,0.011,0.04313636363636363
-Iatrogenic pulmonary embolism and infarction,2.077,1.183,3.644,0.011,0.04313636363636363
 "Postoperative shock, other",2.077,1.184,3.643,0.011,0.04313636363636363
+Iatrogenic pulmonary embolism and infarction,2.076,1.183,3.644,0.011,0.04313636363636363
 Closed fracture of three ribs,2.053,1.177,3.581,0.011,0.04313636363636363
 Abscess of lung,2.048,1.177,3.564,0.011,0.04313636363636363
 "Pressure ulcer, other site",1.725,1.135,2.622,0.011,0.04313636363636363
@@ -1057,7 +1057,7 @@ Overweight,0.175,0.041,0.751,0.019,0.06817013232514178
 Postmenopausal bleeding,0.163,0.036,0.742,0.019,0.06817013232514178
 "Tinnitus, unspecified",0.156,0.033,0.734,0.019,0.06817013232514178
 Generalized hyperhidrosis,0.154,0.033,0.732,0.019,0.06817013232514178
-Heteronymous bilateral field defects,3.044,1.192,7.772,0.02,0.07155513666352498
+Heteronymous bilateral field defects,3.044,1.192,7.773,0.02,0.07155513666352498
 "Body Mass Index 29.0-29.9, adult",1.713,1.087,2.698,0.02,0.07155513666352498
 Unspecified disease of pancreas,0.496,0.275,0.896,0.02,0.07155513666352498
 Other neutropenia,2.751,1.165,6.498,0.021,0.07429263746505126
@@ -1120,7 +1120,7 @@ Unspecified hemorrhoids with other complication,0.426,0.2,0.908,0.027,0.09142908
 "Acute sinusitis, unspecified",0.333,0.126,0.881,0.027,0.09142908117752008
 "Major depressive affective disorder, recurrent episode, severe, specified as with psychotic behavior",0.231,0.063,0.845,0.027,0.09142908117752008
 "Cocaine abuse, in remission",0.205,0.05,0.835,0.027,0.09142908117752008
-"Injury to other intra-abdominal organs with open wound into cavity, peritoneum",5.801,1.207,27.869,0.028,0.09406017699115045
+"Injury to other intra-abdominal organs with open wound into cavity, peritoneum",5.801,1.207,27.87,0.028,0.09406017699115045
 Foreign body in trachea,4.567,1.177,17.715,0.028,0.09406017699115045
 Other specified hemiplegia and hemiparesis affecting unspecified side,3.178,1.132,8.922,0.028,0.09406017699115045
 "Infection and inflammatory reaction due to cardiac device, implant, and graft",1.727,1.062,2.808,0.028,0.09406017699115045
@@ -1212,7 +1212,7 @@ Folate-deficiency anemia,0.236,0.06,0.933,0.04,0.12538398018166805
 Alcohol-induced persisting amnestic disorder,0.158,0.027,0.918,0.04,0.12538398018166805
 "Aplastic anemia, unspecified",2.649,1.04,6.748,0.041,0.12799013157894737
 Polyneuropathy in diabetes,1.313,1.011,1.705,0.041,0.12799013157894737
-Diplopia,0.552,0.313,0.976,0.041,0.12799013157894737
+Diplopia,0.552,0.312,0.976,0.041,0.12799013157894737
 Pathological drug intoxication,0.207,0.046,0.935,0.041,0.12799013157894737
 Diverticulitis of colon with hemorrhage,0.204,0.045,0.935,0.041,0.12799013157894737
 "Mycosis fungoides, unspecified site, extranodal and solid organ sites",2.141,1.028,4.459,0.042,0.13078917145200986
@@ -1245,7 +1245,7 @@ Chronic venous embolism and thrombosis of other thoracic veins,0.185,0.034,0.995
 Malignant neoplasm of pyloric antrum,2.736,0.998,7.498,0.05,0.15232744783306584
 Traumatic subcutaneous emphysema,0.343,0.117,1.0,0.05,0.15232744783306584
 "Opioid type dependence, in remission",0.251,0.063,0.997,0.05,0.15232744783306584
-"Alcoholic gastritis, with hemorrhage",6.217,0.995,38.857,0.051,0.15475299760191846
+"Alcoholic gastritis, with hemorrhage",6.217,0.995,38.858,0.051,0.15475299760191846
 Absence of menstruation,3.324,0.996,11.094,0.051,0.15475299760191846
 Primary hypercoagulable state,0.727,0.527,1.001,0.051,0.15475299760191846
 "Mechanical complication of nervous system device, implant, and graft",0.268,0.071,1.005,0.051,0.15475299760191846
@@ -1256,7 +1256,7 @@ Other drug-induced pancytopenia,2.043,0.993,4.203,0.052,0.1571592356687898
 "Organic sleep apnea, unspecified",0.519,0.268,1.007,0.052,0.1571592356687898
 Disorders of iron metabolism,0.307,0.093,1.01,0.052,0.1571592356687898
 "Torticollis, unspecified",2.665,0.989,7.181,0.053,0.15941996830427893
-Occlusion and stenosis of multiple and bilateral precerebral arteries with cerebral infarction,2.47,0.987,6.184,0.053,0.15941996830427893
+Occlusion and stenosis of multiple and bilateral precerebral arteries with cerebral infarction,2.47,0.987,6.185,0.053,0.15941996830427893
 Accidental fall from or out of building or other structure,2.047,0.989,4.237,0.053,0.15941996830427893
 Acute on chronic combined systolic and diastolic heart failure,0.763,0.58,1.004,0.053,0.15941996830427893
 Postprocedural fever,0.642,0.41,1.005,0.053,0.15941996830427893
@@ -1303,7 +1303,7 @@ Benign paroxysmal positional vertigo,0.593,0.343,1.026,0.062,0.18090084550345886
 Phlebitis and thrombophlebitis of intracranial venous sinuses,2.219,0.957,5.144,0.063,0.18339570552147239
 "Spinal stenosis, lumbar region, without neurogenic claudication",0.767,0.58,1.014,0.063,0.18339570552147239
 Dermatophytosis of the body,0.187,0.032,1.095,0.063,0.18339570552147239
-Family history of sudden cardiac death (SCD),2.376,0.951,5.939,0.064,0.18559511077158136
+Family history of sudden cardiac death (SCD),2.377,0.951,5.939,0.064,0.18559511077158136
 Unspecified sinusitis (chronic),0.654,0.417,1.024,0.064,0.18559511077158136
 Late effects of other accidents,0.348,0.114,1.064,0.064,0.18559511077158136
 Stenosis of larynx,0.281,0.073,1.075,0.064,0.18559511077158136
@@ -1342,7 +1342,7 @@ Incomplete bladder emptying,0.427,0.17,1.07,0.069,0.19502903946388683
 "Other vascular complications of medical care, not elsewhere classified",0.362,0.121,1.084,0.069,0.19502903946388683
 "Spinal stenosis, thoracic region",0.273,0.067,1.105,0.069,0.19502903946388683
 Chronic inflammatory demyelinating polyneuritis,0.236,0.05,1.121,0.069,0.19502903946388683
-"Other benign neoplasm of connective and other soft tissue, site unspecified",3.392,0.905,12.704,0.07,0.19726800296956198
+"Other benign neoplasm of connective and other soft tissue, site unspecified",3.392,0.905,12.705,0.07,0.19726800296956198
 Orbital cellulitis,2.769,0.919,8.341,0.07,0.19726800296956198
 Mechanical complication due to heart valve prosthesis,2.21,0.938,5.204,0.07,0.19726800296956198
 Dysuria,0.591,0.335,1.045,0.07,0.19726800296956198
@@ -1378,7 +1378,7 @@ Hemangioma of other sites,0.247,0.053,1.144,0.074,0.2042938181818182
 Nonspecific reaction to tuberculin skin test without active tuberculosis,1.863,0.94,3.695,0.075,0.20675381263616557
 Hypothermia,2.319,0.916,5.868,0.076,0.20920667150108774
 "Closed fracture of base of skull with subarachnoid, subdural, and extradural hemorrhage, with brief (less than one hour) loss of consciousness",0.279,0.068,1.143,0.076,0.20920667150108774
-Congenital quadriplegia,2.752,0.896,8.453,0.077,0.2105850144092219
+Congenital quadriplegia,2.753,0.896,8.453,0.077,0.2105850144092219
 Neutropenia due to infection,1.902,0.932,3.881,0.077,0.2105850144092219
 "Unspecified gastritis and gastroduodenitis, without mention of hemorrhage",0.79,0.608,1.026,0.077,0.2105850144092219
 Other psoriasis,0.765,0.568,1.03,0.077,0.2105850144092219
@@ -1392,7 +1392,7 @@ Contusion of lower leg,1.816,0.936,3.525,0.078,0.21270689655172412
 Rheumatoid arthritis,0.851,0.712,1.018,0.078,0.21270689655172412
 Right bundle branch block,0.761,0.562,1.031,0.078,0.21270689655172412
 Unspecified disorder of bladder,0.212,0.038,1.198,0.079,0.21527925340990667
-"Other myeloid leukemia, in relapse",4.929,0.827,29.379,0.08,0.2169142857142857
+"Other myeloid leukemia, in relapse",4.929,0.827,29.38,0.08,0.2169142857142857
 Right bundle branch block and left posterior fascicular block,1.83,0.93,3.6,0.08,0.2169142857142857
 Pure hypercholesterolemia,1.078,0.991,1.173,0.08,0.2169142857142857
 Pain in limb,0.795,0.615,1.028,0.08,0.2169142857142857
@@ -1427,7 +1427,7 @@ Tracheoesophageal fistula,0.251,0.052,1.215,0.086,0.2289312762973352
 Other specified types of cystitis,0.205,0.034,1.25,0.086,0.2289312762973352
 Motor vehicle traffic accident of unspecified nature injuring driver of motor vehicle other than motorcycle,2.187,0.892,5.361,0.087,0.23126890756302518
 Alpha-1-antitrypsin deficiency,0.274,0.062,1.205,0.087,0.23126890756302518
-Nontraumatic compartment syndrome of abdomen,3.15,0.843,11.768,0.088,0.2336
+Nontraumatic compartment syndrome of abdomen,3.15,0.843,11.767,0.088,0.2336
 Unspecified non-arthropod-borne viral diseases of central nervous system,2.935,0.853,10.102,0.088,0.2336
 Other selective immunoglobulin deficiencies,2.241,0.885,5.674,0.089,0.23592458100558658
 Ulcer of other part of lower limb,1.379,0.953,1.998,0.089,0.23592458100558658
@@ -1448,8 +1448,8 @@ Other disorders of lipoid metabolism,0.298,0.073,1.227,0.094,0.24676625172890734
 Cardiomyopathy in other diseases classified elsewhere,1.637,0.919,2.917,0.095,0.24887508626639063
 Coronary atherosclerosis of autologous vein bypass graft,1.323,0.952,1.837,0.095,0.24887508626639063
 "Fracture of lateral malleolus, closed",0.27,0.058,1.257,0.095,0.24887508626639063
-Other decreased white blood cell count,4.472,0.765,26.156,0.096,0.25097520661157025
-Closed supracondylar fracture of femur,1.976,0.886,4.411,0.096,0.25097520661157025
+Other decreased white blood cell count,4.472,0.765,26.157,0.096,0.25097520661157025
+Closed supracondylar fracture of femur,1.977,0.886,4.411,0.096,0.25097520661157025
 "Late effects of cerebrovascular disease, speech and language deficit, unspecified",0.313,0.08,1.23,0.096,0.25097520661157025
 Myoclonus,1.593,0.917,2.767,0.098,0.25567560137457046
 Personal history of other specified diseases,0.442,0.168,1.161,0.098,0.25567560137457046
@@ -1475,11 +1475,11 @@ Chronic venous embolism and thrombosis of deep veins of upper extremity,0.257,0.
 Hip joint replacement,1.124,0.976,1.294,0.104,0.26746883468834687
 Atherosclerosis of native arteries of the extremities with rest pain,0.61,0.337,1.107,0.104,0.26746883468834687
 Psoas muscle abscess,0.457,0.178,1.175,0.104,0.26746883468834687
-"Postoperative shock, septic",2.682,0.814,8.841,0.105,0.26967523680649524
+"Postoperative shock, septic",2.682,0.814,8.842,0.105,0.26967523680649524
 Personal history of benign neoplasm of the brain,0.391,0.126,1.215,0.105,0.26967523680649524
 "Nodular lymphoma, lymph nodes of multiple sites",2.349,0.835,6.609,0.106,0.271692099932478
 Secondary hyperparathyroidism (of renal origin),0.758,0.542,1.061,0.106,0.271692099932478
-Unspecified adjustment reaction,0.512,0.227,1.153,0.106,0.271692099932478
+Unspecified adjustment reaction,0.511,0.227,1.153,0.106,0.271692099932478
 Other activity,0.382,0.118,1.233,0.107,0.27388536749831427
 Borderline personality disorder,0.368,0.109,1.24,0.107,0.27388536749831427
 Personal history of pulmonary embolism,0.874,0.741,1.03,0.108,0.2755161290322581
@@ -1623,7 +1623,7 @@ Phlebitis and thrombophlebitis of superficial vessels of lower extremities,0.29,
 Bladder replaced by other means,0.229,0.031,1.702,0.15,0.3510480887792848
 "Malignant melanoma of skin of trunk, except scrotum",0.328,0.072,1.5,0.151,0.35295320197044333
 Aneurysm of other visceral artery,0.302,0.059,1.547,0.151,0.35295320197044333
-Poisoning by other specified central nervous system stimulants,4.457,0.574,34.622,0.153,0.35609319435928877
+Poisoning by other specified central nervous system stimulants,4.457,0.574,34.623,0.153,0.35609319435928877
 Conversion disorder,1.975,0.776,5.025,0.153,0.35609319435928877
 Dementia in conditions classified elsewhere with behavioral disturbance,0.704,0.435,1.139,0.153,0.35609319435928877
 Contusion of thigh,0.583,0.279,1.221,0.153,0.35609319435928877
@@ -1652,7 +1652,7 @@ Closed fracture of unspecified part of humerus,0.288,0.051,1.622,0.158,0.3637161
 Intestinal disaccharidase deficiencies and disaccharide malabsorption,0.578,0.269,1.242,0.16,0.3672067714631197
 Other specified personal history presenting hazards to health,0.477,0.17,1.34,0.16,0.3672067714631197
 Striking against or struck accidentally by other stationary object with subsequent fall,0.364,0.089,1.491,0.16,0.3672067714631197
-"Otalgia, unspecified",0.316,0.064,1.576,0.16,0.3672067714631197
+"Otalgia, unspecified",0.316,0.063,1.576,0.16,0.3672067714631197
 Adhesive capsulitis of shoulder,0.355,0.084,1.513,0.162,0.37134782608695655
 "Infection and inflammatory reaction due to other genitourinary device, implant, and graft",0.345,0.078,1.531,0.162,0.37134782608695655
 Other complications due to internal joint prosthesis,2.099,0.741,5.95,0.163,0.373189384800965
@@ -1665,11 +1665,11 @@ Contusion of lung without mention of open wound into thorax,0.674,0.387,1.174,0.
 "Other specified disorders of uterus, not elsewhere classified",2.777,0.657,11.73,0.165,0.3750538922155689
 "Polycythemia, secondary",1.627,0.818,3.235,0.165,0.3750538922155689
 Other diseases of spleen,1.34,0.886,2.026,0.165,0.3750538922155689
-"Peripheral vascular complications, not elsewhere classified",0.69,0.409,1.165,0.165,0.3750538922155689
+"Peripheral vascular complications, not elsewhere classified",0.69,0.409,1.164,0.165,0.3750538922155689
 "Late effects of cerebrovascular disease, disturbances of vision",0.521,0.208,1.308,0.165,0.3750538922155689
 Concussion with loss of consciousness of unspecified duration,0.35,0.079,1.541,0.165,0.3750538922155689
 "Malignant neoplasm of other sites of rectum, rectosigmoid junction, and anus",0.303,0.056,1.637,0.165,0.3750538922155689
-"Hypersensitivity angiitis, unspecified",3.194,0.617,16.54,0.166,0.3768755980861244
+"Hypersensitivity angiitis, unspecified",3.194,0.617,16.541,0.166,0.3768755980861244
 Herpes simplex with unspecified complication,1.885,0.768,4.626,0.166,0.3768755980861244
 Closed fracture of surgical neck of humerus,0.606,0.299,1.232,0.167,0.3786929510155317
 Chronic fatigue syndrome,0.326,0.066,1.599,0.167,0.3786929510155317
@@ -1728,7 +1728,7 @@ Accidents caused by other specified cutting and piercing instruments or objects,
 Aftercare for healing traumatic fracture of vertebrae,0.519,0.195,1.383,0.189,0.4154279096699479
 Accidental puncture or laceration of dura during a procedure,2.076,0.696,6.192,0.19,0.4173842592592592
 Other specified cardiac device in situ,0.387,0.093,1.608,0.191,0.4193383458646617
-Encounter for change or removal of surgical wound dressing,1.972,0.711,5.474,0.192,0.4210467937608319
+Encounter for change or removal of surgical wound dressing,1.972,0.711,5.475,0.192,0.4210467937608319
 Aftercare for healing traumatic fracture of lower arm,0.405,0.104,1.573,0.192,0.4210467937608319
 Herpes simplex with other specified complications,2.551,0.623,10.441,0.193,0.4210505747126437
 Other specified disorders of adrenal glands,1.712,0.762,3.848,0.193,0.4210505747126437
@@ -1739,7 +1739,7 @@ Great toe amputation status,0.631,0.316,1.262,0.193,0.4210505747126437
 "Diabetes with other specified manifestations, type I (juvenile type), uncontrolled",0.516,0.191,1.397,0.193,0.4210505747126437
 Chronic glomerulonephritis with lesion of membranous glomerulonephritis,0.388,0.094,1.614,0.193,0.4210505747126437
 Malignant neoplasm of hepatic flexure,0.364,0.08,1.667,0.193,0.4210505747126437
-Unspecified retinal detachment,2.431,0.636,9.294,0.194,0.42226146788990826
+Unspecified retinal detachment,2.432,0.636,9.294,0.194,0.42226146788990826
 Pneumocystosis,1.615,0.784,3.327,0.194,0.42226146788990826
 "Major depressive affective disorder, single episode, severe, without mention of psychotic behavior",0.32,0.057,1.79,0.194,0.42226146788990826
 "Urticaria, unspecified",0.299,0.048,1.849,0.194,0.42226146788990826
@@ -1788,12 +1788,12 @@ Other heart block,0.357,0.071,1.784,0.209,0.44396418578623387
 Hereditary hemorrhagic telangiectasia,0.343,0.064,1.821,0.209,0.44396418578623387
 Other psychotropic agents causing adverse effects in therapeutic use,0.441,0.122,1.588,0.21,0.44558971492453886
 "Other anomalies of gallbladder, bile ducts, and liver",0.393,0.091,1.693,0.21,0.44558971492453886
-Malignant neoplasm of parietal lobe,1.616,0.761,3.431,0.212,0.44933109994416526
-Personal history of allergy to other specified medicinal agents,1.55,0.779,3.084,0.212,0.44933109994416526
+Malignant neoplasm of parietal lobe,1.616,0.761,3.431,0.212,0.44908035714285716
+Personal history of allergy to other specified medicinal agents,1.55,0.779,3.084,0.212,0.44908035714285716
+Counseling on substance use and abuse,0.314,0.051,1.94,0.212,0.44908035714285716
 Malignant neoplasm of prostate,1.143,0.926,1.412,0.213,0.45069565217391305
 Other symptoms involving digestive system,0.343,0.064,1.849,0.213,0.45069565217391305
-Counseling on substance use and abuse,0.314,0.051,1.94,0.213,0.45069565217391305
-Asphyxiation and strangulation,5.1,0.388,66.994,0.215,0.4541680578742348
+Asphyxiation and strangulation,5.1,0.388,66.995,0.215,0.4541680578742348
 "Closed fracture of base of skull with subarachnoid, subdural, and extradural hemorrhage, with loss of consciousness of unspecified duration",1.53,0.781,2.996,0.215,0.4541680578742348
 Unspecified inflammatory disease of female pelvic organs and tissues,0.31,0.049,1.972,0.215,0.4541680578742348
 "Jaundice, unspecified, not of newborn",1.238,0.883,1.735,0.216,0.45501442841287454
@@ -1854,7 +1854,7 @@ Cerebral cysts,1.596,0.744,3.426,0.23,0.47193513513513513
 Personal history of surgery to other organs,0.288,0.038,2.205,0.231,0.4732196438208311
 Sprains and strains of other specified sites of shoulder and upper arm,2.232,0.597,8.339,0.233,0.47680215633423184
 Fall resulting in striking against other object,0.69,0.374,1.271,0.233,0.47680215633423184
-Generalized pain,1.85,0.671,5.098,0.234,0.47833279483037155
+Generalized pain,1.85,0.671,5.099,0.234,0.47833279483037155
 "Ventral, unspecified, hernia without mention of obstruction or gangrene",0.725,0.426,1.231,0.234,0.47833279483037155
 Acute venous embolism and thrombosis of axillary veins,0.645,0.313,1.331,0.235,0.47986013986013987
 Unspecified disorder of thyroid,0.571,0.227,1.439,0.235,0.47986013986013987
@@ -1886,10 +1886,10 @@ Closed fracture of glenoid cavity and neck of scapula,2.189,0.581,8.244,0.247,0.
 Personal history of antineoplastic chemotherapy,1.098,0.937,1.288,0.247,0.49687970323264435
 "Other and unspecified cerebral laceration and contusion, without mention of open intracranial wound, with brief (less than one hour) loss of consciousness",0.402,0.086,1.882,0.247,0.49687970323264435
 Unspecified vitamin B deficiency,0.351,0.06,2.068,0.247,0.49687970323264435
-Moyamoya disease,0.358,0.062,2.048,0.248,0.49862711864406783
+"Other hamartoses, not elsewhere classified",0.41,0.09,1.864,0.248,0.498363155108523
+Moyamoya disease,0.358,0.062,2.048,0.248,0.498363155108523
 Family history of stroke (cerebrovascular),1.345,0.812,2.227,0.249,0.4995792811839323
 Acquired partial absence of pancreas,0.419,0.096,1.84,0.249,0.4995792811839323
-"Other hamartoses, not elsewhere classified",0.41,0.09,1.864,0.249,0.4995792811839323
 Other disorders of the pituitary and other syndromes of diencephalohypophyseal origin,0.35,0.059,2.09,0.249,0.4995792811839323
 External hemorrhoids without mention of complication,1.344,0.812,2.225,0.25,0.49973670352817273
 "Calculus of gallbladder with acute cholecystitis, without mention of obstruction",1.259,0.85,1.863,0.25,0.49973670352817273
@@ -1936,7 +1936,7 @@ Biliary cirrhosis,0.722,0.408,1.281,0.266,0.5218273901808785
 "Other specified pervasive developmental disorders, current or active state",0.422,0.092,1.93,0.266,0.5218273901808785
 Personal history of Methicillin resistant Staphylococcus aureus,0.826,0.59,1.157,0.267,0.5229783281733746
 Other diuretics causing adverse effects in therapeutic use,0.792,0.524,1.196,0.267,0.5229783281733746
-Other specified intestinal malabsorption,0.404,0.082,2.001,0.267,0.5229783281733746
+Other specified intestinal malabsorption,0.404,0.082,2.0,0.267,0.5229783281733746
 "Bacterial infection, unspecified, in conditions classified elsewhere and of unspecified site",0.435,0.1,1.896,0.268,0.5246663228468282
 Other convulsions,0.903,0.753,1.082,0.269,0.5255398867730314
 "Unspecified schizophrenia, unspecified",0.843,0.623,1.141,0.269,0.5255398867730314
@@ -1974,7 +1974,7 @@ Ulcer of other part of foot,1.138,0.899,1.441,0.282,0.5422857142857143
 Unspecified disorder of the teeth and supporting structures,0.409,0.08,2.089,0.282,0.5422857142857143
 "Combinations of opioid type drug with any other drug dependence, unspecified",0.31,0.037,2.612,0.282,0.5422857142857143
 Pre-operative cardiovascular examination,0.455,0.108,1.921,0.284,0.5458551898734176
-Thyrotoxicosis of other specified origin without mention of thyrotoxic crisis or storm,1.751,0.626,4.903,0.286,0.5488655207280081
+Thyrotoxicosis of other specified origin without mention of thyrotoxic crisis or storm,1.751,0.626,4.904,0.286,0.5488655207280081
 Antiviral drugs causing adverse effects in therapeutic use,0.622,0.26,1.488,0.286,0.5488655207280081
 Benign intracranial hypertension,0.541,0.175,1.673,0.286,0.5488655207280081
 Closed fracture of upper end of fibula alone,0.444,0.099,1.981,0.287,0.5502282828282827
@@ -1997,7 +1997,7 @@ Secondary malignant neoplasm of kidney,0.73,0.407,1.31,0.292,0.5553266533066132
 Benign neoplasm of cranial nerves,0.323,0.039,2.648,0.292,0.5553266533066132
 Other disorders of menstruation and other abnormal bleeding from female genital tract,0.425,0.086,2.093,0.293,0.5566706706706707
 "Open wound of other and multiple sites of face, without mention of complication",0.384,0.064,2.284,0.293,0.5566706706706707
-NIHSS score 8,0.308,0.034,2.775,0.294,0.5582911455727864
+NIHSS score 8,0.308,0.034,2.774,0.294,0.5582911455727864
 "Chronic or unspecified gastric ulcer with perforation, without mention of obstruction",1.737,0.618,4.885,0.295,0.5596301849075462
 Closed fracture of base of neck of femur,0.462,0.109,1.96,0.295,0.5596301849075462
 Late effect of intracranial injury without mention of skull fracture,1.55,0.682,3.522,0.296,0.5598485301444943
@@ -2103,7 +2103,7 @@ Unspecified functional disorder of stomach,0.483,0.11,2.124,0.335,0.604688540180
 Other specified hypertrophic and atrophic conditions of skin,0.422,0.073,2.435,0.335,0.6046885401806943
 "Pyogenic arthritis, forearm",0.37,0.049,2.801,0.335,0.6046885401806943
 Contusion of eyelids and periocular area,1.968,0.496,7.803,0.336,0.60534219269103
-"Malignant neoplasm of biliary tract, part unspecified site",0.529,0.145,1.933,0.336,0.60534219269103
+"Malignant neoplasm of biliary tract, part unspecified site",0.529,0.145,1.932,0.336,0.60534219269103
 Closed fracture of shaft of fibula with tibia,0.46,0.094,2.238,0.336,0.60534219269103
 Psychogenic vomiting,0.353,0.043,2.936,0.336,0.60534219269103
 Personal history of malignant neoplasm of other respiratory and intrathoracic organs,0.448,0.087,2.309,0.337,0.6065680417259365
@@ -2186,7 +2186,7 @@ Intracranial abscess,1.566,0.585,4.195,0.372,0.6462755148741419
 Automatic implantable cardiac defibrillator in situ,1.086,0.907,1.3,0.372,0.6462755148741419
 Aneurysm of other specified artery,0.354,0.036,3.472,0.373,0.6477163769441903
 Other specified acquired deformity of head,1.515,0.607,3.784,0.374,0.6485628140703518
-Dementia in conditions classified elsewhere without behavioral disturbance,0.857,0.609,1.205,0.374,0.6485628140703518
+Dementia in conditions classified elsewhere without behavioral disturbance,0.856,0.609,1.205,0.374,0.6485628140703518
 Other functional disorders of intestine,0.624,0.22,1.767,0.374,0.6485628140703518
 "Acute alcoholic intoxication in alcoholism, continuous",1.217,0.788,1.878,0.375,0.649703331811958
 "Gastrojejunal ulcer, unspecified as acute or chronic, without mention of hemorrhage or perforation, without mention of obstruction",0.473,0.091,2.471,0.375,0.649703331811958
@@ -2244,7 +2244,7 @@ Closed fracture of navicular (scaphoid) bone of wrist,0.461,0.077,2.769,0.397,0.
 Other genetic carrier status,0.467,0.08,2.727,0.398,0.6735657601426661
 Uric acid metabolism drugs causing adverse effects in therapeutic use,1.693,0.499,5.749,0.399,0.6740560747663551
 Neoplasm of unspecified nature of digestive system,0.507,0.105,2.458,0.399,0.6740560747663551
-Coronary atherosclerosis of artery bypass graft,0.473,0.083,2.693,0.399,0.6740560747663551
+Coronary atherosclerosis of artery bypass graft,0.473,0.083,2.692,0.399,0.6740560747663551
 Salmonella gastroenteritis,0.458,0.075,2.808,0.399,0.6740560747663551
 Intramural leiomyoma of uterus,0.559,0.144,2.168,0.4,0.6748444444444445
 "Sepsis following a procedure, initial encounter",0.487,0.091,2.597,0.4,0.6748444444444445
@@ -2272,7 +2272,7 @@ Abnormal reflex,0.56,0.142,2.204,0.407,0.6806044052863436
 Benign neoplasm of brain,1.764,0.459,6.775,0.408,0.6813761548614167
 Other postoperative functional disorders,0.741,0.364,1.507,0.408,0.6813761548614167
 Acute prostatitis,0.496,0.094,2.615,0.408,0.6813761548614167
-Deviated nasal septum,1.77,0.456,6.865,0.409,0.6818462889767237
+Deviated nasal septum,1.77,0.457,6.865,0.409,0.6818462889767237
 Other elevated white blood cell count,1.432,0.611,3.36,0.409,0.6818462889767237
 Secondary neuroendocrine tumor of other sites,0.571,0.151,2.161,0.409,0.6818462889767237
 Anomalies of other specified sites of peripheral vascular system,0.484,0.087,2.706,0.409,0.6818462889767237
@@ -2307,7 +2307,7 @@ Orthopnea,0.484,0.082,2.839,0.421,0.6927247507585609
 Closed fracture of unspecified part of femur,0.425,0.053,3.414,0.421,0.6927247507585609
 "Maxillary fracture, left side, initial encounter for closed fracture",0.36,0.03,4.331,0.421,0.6927247507585609
 Perforation of gallbladder,1.476,0.571,3.817,0.422,0.6934683982683982
-"Diabetes with peripheral circulatory disorders, type II or unspecified type, uncontrolled",0.671,0.253,1.778,0.422,0.6934683982683982
+"Diabetes with peripheral circulatory disorders, type II or unspecified type, uncontrolled",0.671,0.253,1.777,0.422,0.6934683982683982
 C1-C4 level with other specified spinal cord injury,0.446,0.062,3.204,0.422,0.6934683982683982
 Other diseases of trachea and bronchus,0.895,0.682,1.175,0.424,0.6961522491349481
 Neoplasm of unspecified nature of other genitourinary organs,0.466,0.072,3.023,0.424,0.6961522491349481
@@ -2361,11 +2361,11 @@ Subserous leiomyoma of uterus,0.506,0.088,2.903,0.445,0.715771186440678
 "Chorioretinitis, unspecified",0.311,0.016,6.215,0.445,0.715771186440678
 Fitting and adjustment of cardiac pacemaker,1.137,0.817,1.583,0.446,0.7164688954718579
 Flat foot,0.437,0.052,3.674,0.446,0.7164688954718579
-"Open wound of wrist, without mention of complication",0.417,0.044,3.95,0.446,0.7164688954718579
+"Open wound of wrist, without mention of complication",0.417,0.044,3.949,0.446,0.7164688954718579
 Anticoagulants causing adverse effects in therapeutic use,1.099,0.861,1.402,0.448,0.7181621621621622
 "Mechanical complication due to other implant and internal device, not elsewhere classified",0.867,0.598,1.255,0.448,0.7181621621621622
 "Drug induced headache, not elsewhere classified",0.491,0.078,3.08,0.448,0.7181621621621622
-Pyoderma gangrenosum,0.476,0.07,3.233,0.448,0.7181621621621622
+Pyoderma gangrenosum,0.476,0.07,3.232,0.448,0.7181621621621622
 "Bimalleolar fracture, open",0.45,0.057,3.55,0.448,0.7181621621621622
 "Osteoarthrosis, localized, primary, pelvic region and thigh",1.236,0.714,2.14,0.449,0.719157805907173
 "Open wound of knee, leg (except thigh), and ankle, complicated",0.536,0.107,2.695,0.449,0.719157805907173
@@ -2390,7 +2390,7 @@ Complications of transplanted bone marrow,1.263,0.681,2.344,0.459,0.729633165829
 Contracture of palmar fascia,0.526,0.095,2.897,0.46,0.7303053115851109
 "Other current conditions classifiable elsewhere of mother, postpartum condition or complication",0.52,0.092,2.949,0.46,0.7303053115851109
 "Arthropathy, unspecified, shoulder region",0.481,0.069,3.349,0.46,0.7303053115851109
-Viral hepatitis A without mention of hepatic coma,1.599,0.459,5.562,0.461,0.7312812369410783
+Viral hepatitis A without mention of hepatic coma,1.599,0.459,5.563,0.461,0.7312812369410783
 Skeletal muscle relaxants causing adverse effects in therapeutic use,0.478,0.067,3.409,0.461,0.7312812369410783
 Closed fracture of upper end of fibula with tibia,0.591,0.145,2.399,0.462,0.7322555323590815
 Closed fracture of distal end of ulna (alone),0.517,0.089,2.998,0.462,0.7322555323590815
@@ -2415,14 +2415,14 @@ Other iatrogenic hypothyroidism,0.64,0.191,2.144,0.47,0.7390720795360397
 "Blister of foot and toe(s), without mention of infection",0.537,0.099,2.899,0.47,0.7390720795360397
 Glucocorticoid deficiency,1.103,0.845,1.439,0.471,0.7397252792718245
 "Arthropathy, unspecified, lower leg",0.738,0.322,1.689,0.471,0.7397252792718245
-"Late effects of cerebrovascular disease, monoplegia of upper limb affecting dominant side",0.393,0.031,4.974,0.471,0.7397252792718245
+"Late effects of cerebrovascular disease, monoplegia of upper limb affecting dominant side",0.393,0.031,4.973,0.471,0.7397252792718245
 Malignant neoplasm of duodenum,1.357,0.591,3.116,0.472,0.7406829268292683
 Long-term (current) use of other medications,1.087,0.866,1.363,0.472,0.7406829268292683
 Hepatitis B carrier,0.675,0.23,1.979,0.473,0.7416389921520032
 Respiratory conditions due to other specified external agents,0.672,0.227,1.991,0.473,0.7416389921520032
 "Open wound of hip and thigh, without mention of complication",0.486,0.067,3.524,0.475,0.744467382328654
 Drug-induced mood disorder,0.474,0.061,3.688,0.476,0.7457267849773008
-Pulmonary eosinophilia,1.384,0.565,3.395,0.477,0.746061804697157
+Pulmonary eosinophilia,1.385,0.565,3.395,0.477,0.746061804697157
 Spinal stenosis in cervical region,1.151,0.781,1.698,0.477,0.746061804697157
 "Other allergy, other than to medicinal agents",0.534,0.095,3.001,0.477,0.746061804697157
 "Pulmonary tuberculosis, unspecified, unspecified",0.531,0.093,3.036,0.477,0.746061804697157
@@ -2440,7 +2440,7 @@ Unspecified delay in development,0.701,0.26,1.889,0.483,0.752346327451785
 Major osseous defects,0.506,0.075,3.409,0.484,0.7532857728577286
 Other cataract,1.336,0.592,3.016,0.485,0.7539148239148239
 "Dysphagia, pharyngoesophageal phase",0.498,0.071,3.517,0.485,0.7539148239148239
-"Infection following a procedure, organ and space surgical site, initial encounter",0.341,0.017,6.979,0.485,0.7539148239148239
+"Infection following a procedure, organ and space surgical site, initial encounter",0.341,0.017,6.98,0.485,0.7539148239148239
 "Contusion of multiple sites, not elsewhere classified",0.553,0.105,2.921,0.486,0.7548510638297872
 "Blister of hip, thigh, leg, and ankle, without mention of infection",0.456,0.05,4.14,0.486,0.7548510638297872
 "Closed fracture of metacarpal bone(s), site unspecified",0.491,0.066,3.642,0.487,0.7560948875255624
@@ -2454,7 +2454,7 @@ Postprocedural seroma of skin and subcutaneous tissue following other procedure,
 Flushing,0.52,0.081,3.325,0.49,0.7576537678207739
 Vascular disorders of skin,0.466,0.053,4.066,0.49,0.7576537678207739
 "Cannabis abuse, episodic",0.456,0.049,4.235,0.49,0.7576537678207739
-"Personal history of malignant neoplasm of nasal cavities, middle ear, and accessory sinuses",1.924,0.299,12.381,0.491,0.758273393002441
+"Personal history of malignant neoplasm of nasal cavities, middle ear, and accessory sinuses",1.924,0.299,12.382,0.491,0.758273393002441
 Systemic inflammatory response syndrome due to noninfectious process without acute organ dysfunction,1.274,0.64,2.536,0.491,0.758273393002441
 Peri-prosthetic fracture around prosthetic joint,0.644,0.184,2.253,0.491,0.758273393002441
 Disruption of internal operation (surgical) wound,0.793,0.41,1.534,0.492,0.7585832656376928
@@ -2477,7 +2477,7 @@ Unspecified diseases of conjunctiva due to viruses,0.5,0.068,3.689,0.496,0.76104
 Malignant neoplasm of other specified sites of female breast,0.813,0.448,1.478,0.498,0.7628765133171913
 "Other specified complications of pregnancy, antepartum condition or complication",0.555,0.101,3.048,0.498,0.7628765133171913
 Other and unspecified diseases of appendix,0.5,0.067,3.714,0.498,0.7628765133171913
-Other artificial opening of urinary tract status,1.159,0.756,1.777,0.499,0.763484079000403
+Other artificial opening of urinary tract status,1.159,0.756,1.778,0.499,0.763484079000403
 "Osteoarthrosis, unspecified whether generalized or localized, lower leg",1.14,0.779,1.667,0.499,0.763484079000403
 Unspecified disorder of eye movements,0.454,0.046,4.474,0.499,0.763484079000403
 "Bipolar I disorder, most recent episode (or current) unspecified",0.646,0.182,2.3,0.5,0.7647058823529411
@@ -2496,7 +2496,7 @@ Antilipemic and antiarteriosclerotic drugs causing adverse effects in therapeuti
 Poisoning by antiallergic and antiemetic drugs,0.502,0.067,3.793,0.505,0.7683286573146293
 Wheezing,0.699,0.243,2.012,0.506,0.7686178471388556
 Sympathomimetics (adrenergics) causing adverse effects in therapeutic use,0.467,0.05,4.407,0.506,0.7686178471388556
-Other specified dermatomycoses,0.413,0.03,5.608,0.506,0.7686178471388556
+Other specified dermatomycoses,0.413,0.03,5.607,0.506,0.7686178471388556
 Lesion of sciatic nerve,0.382,0.022,6.536,0.506,0.7686178471388556
 Alcoholic fatty liver,1.314,0.586,2.945,0.507,0.7692134292565947
 Complications of transplanted pancreas,0.645,0.177,2.357,0.507,0.7692134292565947
@@ -2585,7 +2585,7 @@ Other conditions of brain,1.12,0.771,1.628,0.552,0.8109102167182664
 Pigmentary retinal dystrophy,0.551,0.077,3.926,0.552,0.8109102167182664
 Acquired absence of intestine (large) (small),1.071,0.854,1.343,0.553,0.8114371859296483
 Aneurysm of artery of upper extremity,0.641,0.147,2.792,0.553,0.8114371859296483
-Atherosclerosis of unspecified bypass graft of the extremities,0.566,0.087,3.697,0.553,0.8114371859296483
+Atherosclerosis of unspecified bypass graft of the extremities,0.566,0.087,3.696,0.553,0.8114371859296483
 Antirheumatics (antiphlogistics) causing adverse effects in therapeutic use,0.639,0.145,2.812,0.554,0.8122765546543067
 Parapharyngeal abscess,0.589,0.102,3.398,0.554,0.8122765546543067
 Conjunctival hemorrhage,0.775,0.332,1.808,0.555,0.8131146275569279
@@ -2597,7 +2597,7 @@ Personal history of malaria,0.511,0.054,4.814,0.557,0.8144730354391372
 Foreign body accidentally left during a procedure,0.474,0.039,5.712,0.557,0.8144730354391372
 Accidental fall from bed,0.889,0.599,1.318,0.558,0.8153071593533487
 Transient global amnesia,0.61,0.117,3.184,0.558,0.8153071593533487
-Unspecified disorder of biliary tract,0.512,0.054,4.851,0.559,0.8164540207772222
+Unspecified disorder of biliary tract,0.512,0.054,4.85,0.559,0.8164540207772222
 "Reticulosarcoma, intra-abdominal lymph nodes",0.588,0.098,3.514,0.56,0.8176000000000001
 Embolism and thrombosis of abdominal aorta,1.493,0.384,5.797,0.563,0.8216639753940791
 Accident involving animal being ridden injuring rider of animal,0.591,0.098,3.541,0.564,0.822490971955436
@@ -2615,7 +2615,7 @@ Erythema nodosum,0.478,0.037,6.111,0.57,0.8280597014925373
 Other seborrheic keratosis,0.759,0.292,1.971,0.571,0.8288780114722752
 "Dermatomycosis, unspecified",0.753,0.282,2.011,0.571,0.8288780114722752
 Estrogen receptor positive status (ER+),0.856,0.498,1.47,0.572,0.8296950706916315
-"Periprosthetic fracture around internal prosthetic right hip joint, initial encounter",0.485,0.04,5.952,0.572,0.8296950706916315
+"Periprosthetic fracture around internal prosthetic right hip joint, initial encounter",0.485,0.04,5.951,0.572,0.8296950706916315
 Assault by other specified means,0.617,0.115,3.318,0.573,0.8308281130634071
 "Open wound of mouth, unspecified site, without mention of complication",1.591,0.315,8.037,0.574,0.8316427480916029
 Enlargement of lymph nodes,0.917,0.677,1.241,0.574,0.8316427480916029
@@ -2625,7 +2625,7 @@ Stenosis of rectum and anus,0.558,0.073,4.288,0.575,0.8318216463414633
 Other vitreous opacities,0.544,0.065,4.561,0.575,0.8318216463414633
 Mitral valve insufficiency and aortic valve stenosis,1.118,0.757,1.65,0.576,0.832
 Tension headache,0.784,0.334,1.84,0.576,0.832
-"Sedative, hypnotic or anxiolytic abuse, unspecified",0.646,0.14,2.978,0.576,0.832
+"Sedative, hypnotic or anxiolytic abuse, unspecified",0.646,0.14,2.979,0.576,0.832
 Pemphigus,0.529,0.057,4.935,0.576,0.832
 Respiratory syncytial virus (RSV),0.69,0.188,2.538,0.577,0.8321778115501519
 Personal history of unspecified malignant neoplasm,0.68,0.175,2.641,0.577,0.8321778115501519
@@ -2644,14 +2644,14 @@ Suicide and self-inflicted injury by hanging,1.869,0.201,17.35,0.582,0.834947845
 Acute glomerulonephritis with other specified pathological lesion in kidney,0.794,0.349,1.806,0.582,0.8349478458049886
 Other hyperparathyroidism,0.651,0.141,3.006,0.582,0.8349478458049886
 Insomnia due to mental disorder,0.609,0.105,3.548,0.582,0.8349478458049886
-Fitting and adjustment of urinary devices,0.503,0.044,5.816,0.582,0.8349478458049886
+Fitting and adjustment of urinary devices,0.503,0.044,5.815,0.582,0.8349478458049886
 Open fracture of shaft of fibula with tibia,0.603,0.099,3.662,0.583,0.8360664903664526
 Contusion of shoulder region,1.382,0.435,4.389,0.584,0.8368682521706303
 Pouchitis,0.572,0.077,4.227,0.584,0.8368682521706303
 Foreign body in stomach,1.759,0.23,13.483,0.587,0.8398989822842066
 Other amyloidosis,0.888,0.579,1.362,0.587,0.8398989822842066
 Aseptic necrosis of head of humerus,0.562,0.07,4.502,0.587,0.8398989822842066
-Asymptomatic postmenopausal status (age-related) (natural),0.535,0.056,5.124,0.587,0.8398989822842066
+Asymptomatic postmenopausal status (age-related) (natural),0.535,0.056,5.125,0.587,0.8398989822842066
 Other bipolar disorders,1.195,0.627,2.275,0.588,0.8403795180722892
 Syringomyelia and syringobulbia,0.671,0.159,2.84,0.588,0.8403795180722892
 "Injury to kidney without mention of open wound into cavity, laceration",0.611,0.103,3.628,0.588,0.8403795180722892
@@ -2675,8 +2675,8 @@ Acute lymphadenitis,0.565,0.069,4.633,0.595,0.8449756827534605
 "Closed fracture of multiple ribs, unspecified",1.199,0.612,2.348,0.596,0.8454469357249625
 "Spondylosis with myelopathy, lumbar region",0.591,0.085,4.125,0.596,0.8454469357249625
 Missed abortion,0.561,0.066,4.769,0.596,0.8454469357249625
-Postprocedural hematoma of skin and subcutaneous tissue following other procedure,1.218,0.586,2.533,0.597,0.8462330097087378
-Unspecified hemorrhoids without mention of complication,1.108,0.756,1.624,0.597,0.8462330097087378
+Postprocedural hematoma of skin and subcutaneous tissue following other procedure,1.218,0.586,2.533,0.597,0.8465491221516623
+Unspecified hemorrhoids without mention of complication,1.108,0.756,1.624,0.598,0.8470179104477612
 "Osteoarthrosis, unspecified whether generalized or localized, site unspecified",1.041,0.897,1.208,0.598,0.8470179104477612
 "Neoplasm of uncertain behavior of trachea, bronchus, and lung",0.646,0.127,3.277,0.598,0.8470179104477612
 Iron deficiency anemia secondary to inadequate dietary iron intake,0.624,0.108,3.609,0.599,0.8476367696315593
@@ -2698,9 +2698,9 @@ Gastroesophageal laceration-hemorrhage syndrome,0.847,0.452,1.586,0.604,0.850123
 Benign neoplasm of thymus,0.548,0.056,5.34,0.604,0.8501238413051538
 "Secondary diabetes mellitus with renal manifestations, not stated as uncontrolled, or unspecified",1.48,0.335,6.533,0.605,0.8509003334568359
 "Urinary obstruction, unspecified",0.808,0.36,1.813,0.605,0.8509003334568359
-"Cystostomy, unspecified",0.573,0.069,4.736,0.606,0.8516756756756757
+"Cystostomy, unspecified",0.573,0.069,4.735,0.606,0.8516756756756757
 Balanoposthitis,0.533,0.049,5.806,0.606,0.8516756756756757
-Dietary surveillance and counseling,0.597,0.084,4.265,0.607,0.8524498705142435
+Dietary surveillance and counseling,0.597,0.083,4.265,0.607,0.8524498705142435
 Encounter for radiotherapy,0.591,0.079,4.392,0.607,0.8524498705142435
 "Early onset of delivery, delivered, with or without mention of antepartum condition",0.461,0.024,8.847,0.608,0.8535384615384615
 "Chronic or unspecified gastric ulcer with hemorrhage, without mention of obstruction",0.882,0.546,1.426,0.609,0.8546262476894639
@@ -2709,16 +2709,16 @@ Atheroembolism of lower extremity,1.403,0.381,5.171,0.611,0.8555352268535595
 "Dissection of aorta, unspecified site",1.369,0.408,4.589,0.611,0.8555352268535595
 Cysticercosis,0.609,0.09,4.126,0.611,0.8555352268535595
 Lack of adequate sleep,0.577,0.069,4.81,0.611,0.8555352268535595
-Multiple closed pelvic fractures with disruption of pelvic circle,0.452,0.021,9.658,0.611,0.8555352268535595
+Multiple closed pelvic fractures with disruption of pelvic circle,0.452,0.021,9.659,0.611,0.8555352268535595
 Other ovarian hyperfunction,0.641,0.115,3.585,0.613,0.8577029119056395
 "Calculus of gallbladder with other cholecystitis, with obstruction",0.57,0.064,5.054,0.613,0.8577029119056395
 Scoliosis associated with other conditions,1.624,0.246,10.7,0.614,0.8583223924142961
 "Osteoarthrosis, unspecified whether generalized or localized, other specified sites",1.283,0.485,3.398,0.615,0.8583223924142961
 Secondary malignant neoplasm of adrenal gland,0.922,0.674,1.263,0.615,0.8583223924142961
 Late effects of acute poliomyelitis,0.82,0.379,1.774,0.615,0.8583223924142961
+Other noninfectious disorders of lymphatic channels,0.808,0.351,1.857,0.615,0.8583223924142961
 Homicidal ideation,0.629,0.103,3.828,0.615,0.8583223924142961
 "Car driver injured in collision with fixed or stationary object in traffic accident, initial encounter",1.486,0.316,6.998,0.616,0.8583223924142961
-Other noninfectious disorders of lymphatic channels,0.808,0.351,1.857,0.616,0.8583223924142961
 "Schizoaffective disorder, chronic with acute exacerbation",0.631,0.104,3.816,0.616,0.8583223924142961
 "Neurosyphilis, unspecified",0.543,0.05,5.91,0.616,0.8583223924142961
 Foot amputation status,0.865,0.49,1.527,0.617,0.8583223924142961
@@ -2728,7 +2728,7 @@ Transient retinal arterial occlusion,0.724,0.204,2.572,0.617,0.8583223924142961
 Neurogenic bowel,0.682,0.152,3.063,0.617,0.8583223924142961
 Methicillin susceptible pneumonia due to Staphylococcus aureus,0.895,0.58,1.382,0.618,0.8583223924142961
 Nonspecific (abnormal) findings on radiological and other examination of skull and head,0.64,0.111,3.701,0.618,0.8583223924142961
-"Infantile spasms, with intractable epilepsy",0.561,0.058,5.452,0.618,0.8583223924142961
+"Infantile spasms, with intractable epilepsy",0.561,0.058,5.453,0.618,0.8583223924142961
 Benign neoplasm of major salivary glands,0.609,0.086,4.29,0.619,0.8583223924142961
 Other causes of myelitis,0.581,0.068,4.941,0.619,0.8583223924142961
 Accidental poisoning by hormones and synthetic substitutes,0.48,0.027,8.69,0.619,0.8583223924142961
@@ -2737,7 +2737,7 @@ Family history of other blood disorders,1.532,0.284,8.272,0.62,0.858322392414296
 Encounter for removal of internal fixation device,0.629,0.101,3.932,0.62,0.8583223924142961
 "Combinations of opioid type drug with any other drug dependence, continuous",0.623,0.096,4.037,0.62,0.8583223924142961
 Other open fractures of distal end of radius (alone),0.617,0.092,4.155,0.62,0.8583223924142961
-Fourth or trochlear nerve palsy,0.601,0.081,4.494,0.62,0.8583223924142961
+Fourth or trochlear nerve palsy,0.601,0.08,4.494,0.62,0.8583223924142961
 Closed dislocation of acromioclavicular (joint),0.596,0.077,4.598,0.62,0.8583223924142961
 "Closed fracture of mandible, symphysis of body",0.587,0.071,4.83,0.62,0.8583223924142961
 "Previous cesarean delivery, delivered, with or without mention of antepartum condition",0.48,0.026,8.742,0.62,0.8583223924142961
@@ -2807,7 +2807,7 @@ Other motor vehicle traffic accident involving collision with motor vehicle inju
 Congenital hemiplegia,0.628,0.085,4.661,0.649,0.877977191732003
 Unspecified viral hepatitis C with hepatic coma,1.149,0.63,2.097,0.65,0.8787037037037038
 Polyclonal hypergammaglobulinemia,0.599,0.065,5.486,0.65,0.8787037037037038
-Gangrene,1.107,0.712,1.723,0.651,0.879742257030972
+Gangrene,1.108,0.712,1.723,0.651,0.879742257030972
 Amyotrophic lateral sclerosis,1.193,0.555,2.562,0.652,0.8807800711743773
 Eye globe replaced by other means,1.403,0.32,6.158,0.654,0.882226012793177
 Low bladder compliance,0.73,0.184,2.888,0.654,0.882226012793177
@@ -2815,7 +2815,7 @@ Low bladder compliance,0.73,0.184,2.888,0.654,0.882226012793177
 Transient alteration of awareness,0.585,0.056,6.092,0.654,0.882226012793177
 Family history of other specified malignant neoplasm,1.105,0.712,1.716,0.655,0.8826340078097267
 Traumatic spondylopathy,0.595,0.061,5.791,0.655,0.8826340078097267
-Accidental poisoning by heroin,0.493,0.022,11.034,0.655,0.8826340078097267
+Accidental poisoning by heroin,0.493,0.022,11.033,0.655,0.8826340078097267
 Residual foreign body in soft tissue,1.48,0.264,8.293,0.656,0.8830411347517731
 Unspecified paranoid state,0.637,0.088,4.632,0.656,0.8830411347517731
 Unspecified menopausal and postmenopausal disorder,0.547,0.038,7.794,0.656,0.8830411347517731
@@ -2832,7 +2832,7 @@ Nonpyogenic meningitis,0.684,0.125,3.734,0.661,0.886627561837456
 "Poisoning by aromatic analgesics, not elsewhere classified",1.387,0.32,6.013,0.662,0.8876552454962912
 Nephrogenic diabetes insipidus,0.731,0.179,2.989,0.663,0.8886822033898306
 Gas gangrene,1.367,0.333,5.609,0.664,0.8892493844530426
-Unspecified visual loss,0.838,0.378,1.86,0.664,0.8892493844530426
+Unspecified visual loss,0.838,0.378,1.859,0.664,0.8892493844530426
 Closed fracture of shaft of clavicle,0.839,0.379,1.859,0.665,0.8892493844530426
 Nontraumatic compartment syndrome of lower extremity,0.746,0.198,2.806,0.665,0.8892493844530426
 Qualitative platelet defects,0.655,0.097,4.44,0.665,0.8892493844530426
@@ -2840,16 +2840,16 @@ Qualitative platelet defects,0.655,0.097,4.44,0.665,0.8892493844530426
 Traumatic pneumohemothorax without mention of open wound into thorax,1.171,0.572,2.399,0.666,0.8892493844530426
 Calculus of ureter,0.908,0.587,1.405,0.666,0.8892493844530426
 Onychia and paronychia of finger,0.64,0.084,4.866,0.666,0.8892493844530426
-"Open wound of abdominal wall, lateral, without mention of complication",0.598,0.058,6.18,0.666,0.8892493844530426
+"Open wound of abdominal wall, lateral, without mention of complication",0.598,0.058,6.181,0.666,0.8892493844530426
 "Open wound of chest (wall), without mention of complication",0.524,0.028,9.862,0.666,0.8892493844530426
 Closed fracture of unspecified part of lower end of humerus,1.268,0.43,3.738,0.667,0.8899585237258348
 Accidents caused by other specified machinery,0.599,0.058,6.199,0.667,0.8899585237258348
 Regional enteritis of small intestine with large intestine,1.155,0.598,2.23,0.668,0.8900414180414181
 "Calculus of bile duct with other cholecystitis, without mention of obstruction",0.715,0.154,3.31,0.668,0.8900414180414181
 Onychia and paronychia of toe,0.576,0.046,7.206,0.668,0.8900414180414181
-"Disorders of soft tissue, unspecified",0.549,0.035,8.513,0.668,0.8900414180414181
+"Disorders of soft tissue, unspecified",0.549,0.035,8.512,0.668,0.8900414180414181
 "Calculus of gallbladder and bile duct with acute and chronic cholecystitis, without mention of obstruction",0.629,0.075,5.268,0.669,0.891061052631579
-Irritable bowel syndrome,1.06,0.811,1.387,0.67,0.8917671809256663
+Irritable bowel syndrome,1.06,0.81,1.387,0.67,0.8917671809256663
 Accidental fall from scaffolding,0.595,0.054,6.506,0.67,0.8917671809256663
 Aneurysm of artery of neck,0.715,0.152,3.36,0.671,0.8919272727272729
 Nonspecific (abnormal) findings on radiological and other examination of musculoskeletal system,1.527,0.215,10.862,0.672,0.8919272727272729
@@ -2862,7 +2862,7 @@ Bulimia nervosa,0.648,0.086,4.854,0.672,0.8919272727272729
 Unspecified persistent mental disorders due to conditions classified elsewhere,1.136,0.629,2.051,0.673,0.8926303284416494
 Other degenerative diseases of the basal ganglia,0.848,0.394,1.825,0.673,0.8926303284416494
 Extravasation of other vesicant agent,0.576,0.044,7.521,0.674,0.8936444289207125
-Down's syndrome,1.152,0.592,2.243,0.676,0.8956705061082024
+Down's syndrome,1.153,0.592,2.243,0.676,0.8956705061082024
 Other venous embolism and thrombosis of renal vein,0.709,0.141,3.561,0.676,0.8956705061082024
 Other specified aplastic anemias,1.128,0.641,1.983,0.677,0.8960571827057183
 Malignant neoplasm of lower-outer quadrant of female breast,0.645,0.082,5.08,0.677,0.8960571827057183
@@ -2894,7 +2894,7 @@ Universal ulcerative (chronic) colitis,1.157,0.567,2.361,0.689,0.903747062888735
 Prophylactic breast removal,0.679,0.102,4.528,0.689,0.9037470628887353
 Mechanical loosening of prosthetic joint,0.671,0.095,4.758,0.689,0.9037470628887353
 Refusal of treatment for reasons of religion or conscience,1.36,0.3,6.17,0.69,0.9038095238095237
-"Malignant neoplasm of connective and other soft tissue, site unspecified",0.666,0.09,4.918,0.69,0.9038095238095237
+"Malignant neoplasm of connective and other soft tissue, site unspecified",0.666,0.09,4.917,0.69,0.9038095238095237
 "Amblyopia, unspecified",0.634,0.068,5.94,0.69,0.9038095238095237
 Other nonspecific (abnormal) findings on radiological and other examinations of body structure,0.609,0.053,6.97,0.69,0.9038095238095237
 Dog bite,0.669,0.091,4.893,0.692,0.906116591928251
@@ -2903,7 +2903,7 @@ Celiac disease,0.914,0.584,1.43,0.693,0.9064879393521709
 Other specific developmental learning difficulties,0.63,0.064,6.237,0.693,0.9064879393521709
 "Acute lymphoid leukemia, in relapse",0.652,0.077,5.528,0.695,0.9081652323580035
 "Aftercare following surgery of the teeth, oral cavity and digestive system, NEC",0.648,0.074,5.696,0.695,0.9081652323580035
-Other motor vehicle traffic accident involving collision on the highway injuring motorcyclist,0.583,0.04,8.619,0.695,0.9081652323580035
+Other motor vehicle traffic accident involving collision on the highway injuring motorcyclist,0.583,0.039,8.619,0.695,0.9081652323580035
 Malignant neoplasm of ampulla of vater,1.22,0.451,3.3,0.696,0.9091589814177563
 Accident caused by unspecified firearm missile,1.477,0.207,10.515,0.697,0.9092137457044673
 "Dysplasia of cervix, unspecified",0.637,0.065,6.193,0.697,0.9092137457044673
@@ -2948,7 +2948,7 @@ Contusion of unspecified part of upper limb,0.653,0.067,6.38,0.714,0.92035944387
 Rectocele,0.693,0.096,4.984,0.715,0.920359443879281
 "Nodular lymphoma, intra-abdominal lymph nodes",0.615,0.045,8.384,0.715,0.920359443879281
 Congenital diplegia,0.56,0.025,12.571,0.715,0.920359443879281
-Other kyphosis (acquired),0.678,0.084,5.485,0.716,0.9213342372881355
+Other kyphosis (acquired),0.678,0.084,5.486,0.716,0.9213342372881355
 Acquired absence of uterus with remaining cervical stump,0.657,0.068,6.361,0.717,0.9223083700440529
 Idiopathic normal pressure hydrocephalus (INPH),1.117,0.613,2.037,0.718,0.9229691838807992
 "Migraine without aura, without mention of intractable migraine without mention of status migrainosus",0.663,0.071,6.198,0.718,0.9229691838807992
@@ -2993,7 +2993,7 @@ Other specified peritonitis,1.139,0.535,2.426,0.735,0.9328184553660983
 Postgastric surgery syndromes,0.646,0.051,8.193,0.736,0.9337754010695187
 "Synovitis and tenosynovitis, unspecified",0.701,0.088,5.601,0.737,0.9347317073170731
 "Late effects of cerebrovascular disease, other paralytic syndrome affecting unspecified side",0.627,0.041,9.687,0.738,0.9353931310436812
-Malnutrition of mild degree,1.109,0.602,2.044,0.739,0.9353931310436812
+Malnutrition of mild degree,1.109,0.602,2.043,0.739,0.9353931310436812
 Aftercare following explantation of joint prosthesis,0.707,0.092,5.419,0.739,0.9353931310436812
 "Closed fracture of mandible, condylar process",0.696,0.082,5.909,0.739,0.9353931310436812
 Other specified disorders of breast,0.678,0.069,6.707,0.739,0.9353931310436812
@@ -3006,9 +3006,9 @@ Pruritus of genital organs,0.665,0.059,7.456,0.741,0.9366753246753247
 "Thyroid dysfunction of mother, antepartum condition or complication",0.661,0.056,7.775,0.742,0.9373151414309483
 "Open wound of shoulder region, without mention of complication",0.688,0.074,6.418,0.743,0.9379541070834719
 "Other myeloid leukemia, without mention of having achieved remission",0.654,0.052,8.271,0.743,0.9379541070834719
-Lung involvement in systemic sclerosis,0.829,0.268,2.558,0.744,0.9382803986710964
+Lung involvement in systemic sclerosis,0.829,0.268,2.557,0.744,0.9382803986710964
 Hemorrhage into bladder wall,0.677,0.065,7.069,0.744,0.9382803986710964
-"Fracture of other specified skull and facial bones, right side, initial encounter for closed fracture",0.529,0.012,24.174,0.744,0.9382803986710964
+"Fracture of other specified skull and facial bones, right side, initial encounter for closed fracture",0.529,0.012,24.175,0.744,0.9382803986710964
 "Other and unspecified cerebral laceration and contusion, without mention of open intracranial wound, unspecified state of consciousness",1.241,0.337,4.574,0.745,0.9382946250829464
 Cardiac rhythm regulators causing adverse effects in therapeutic use,1.108,0.596,2.058,0.745,0.9382946250829464
 Tenosynovitis of foot and ankle,0.677,0.064,7.122,0.745,0.9382946250829464
@@ -3046,9 +3046,9 @@ Other overexertion and strenuous and repetitive movements or loads,0.728,0.098,5
 Other specified episodic mood disorder,0.723,0.092,5.675,0.758,0.9449484400656815
 Subclavian steal syndrome,1.172,0.425,3.228,0.759,0.9455740072202166
 Antisocial personality disorder,0.685,0.061,7.712,0.759,0.9455740072202166
-Staphylococcal meningitis,1.362,0.188,9.876,0.76,0.9458885245901638
+Staphylococcal meningitis,1.362,0.188,9.877,0.76,0.9458885245901638
 Incisional ventral hernia with obstruction,0.892,0.429,1.855,0.76,0.9458885245901638
-Pelvic congestion syndrome,0.545,0.011,26.823,0.76,0.9458885245901638
+Pelvic congestion syndrome,0.545,0.011,26.824,0.76,0.9458885245901638
 Postconcussion syndrome,1.189,0.389,3.639,0.761,0.9458925998690242
 "Osteoarthrosis, unspecified whether generalized or localized, shoulder region",0.863,0.334,2.231,0.761,0.9458925998690242
 Candidiasis of lung,0.789,0.172,3.632,0.761,0.9458925998690242
@@ -3082,9 +3082,9 @@ Disorders of copper metabolism,0.737,0.093,5.838,0.773,0.9526974025974027
 Other malaise and fatigue,1.028,0.853,1.237,0.774,0.9533108371187541
 Other specified conditions of the tongue,0.676,0.047,9.81,0.774,0.9533108371187541
 Accidents occurring in residential institution,0.984,0.877,1.102,0.775,0.9536142625607779
-"Other threatened labor, antepartum condition or complication",0.737,0.092,5.943,0.775,0.9536142625607779
+"Other threatened labor, antepartum condition or complication",0.737,0.091,5.943,0.775,0.9536142625607779
 "Mydriasis (persistent), not due to mydriatics",0.663,0.04,11.015,0.775,0.9536142625607779
-Injury to ulnar nerve,0.634,0.027,14.798,0.776,0.9539107373868047
+Injury to ulnar nerve,0.633,0.027,14.798,0.776,0.9539107373868047
 Other and unspecified mycoses,0.91,0.476,1.743,0.777,0.9539107373868047
 Observation and evaluation for other specified suspected conditions,0.743,0.095,5.798,0.777,0.9539107373868047
 "Acute alcoholic intoxication in alcoholism, episodic",0.722,0.076,6.883,0.777,0.9539107373868047
@@ -3100,7 +3100,7 @@ Closed fracture of five ribs,0.893,0.403,1.98,0.78,0.9544996780424985
 Reiter's disease,0.718,0.071,7.294,0.78,0.9544996780424985
 Unspecified inflammatory disease of uterus,0.718,0.07,7.322,0.78,0.9544996780424985
 Tuberous sclerosis,0.654,0.034,12.765,0.78,0.9544996780424985
-Medullary sponge kidney,0.565,0.01,30.949,0.78,0.9544996780424985
+Medullary sponge kidney,0.565,0.01,30.948,0.78,0.9544996780424985
 Other specified symptoms associated with female genital organs,1.256,0.252,6.269,0.781,0.9544996780424985
 Natural blood and blood products causing adverse effects in therapeutic use,0.825,0.213,3.201,0.781,0.9544996780424985
 Varicose veins of lower extremities with inflammation,0.74,0.089,6.177,0.781,0.9544996780424985
@@ -3139,7 +3139,7 @@ Family history of asthma,0.745,0.084,6.607,0.792,0.9577674418604651
 Need for prophylactic immunotherapy,0.734,0.074,7.287,0.792,0.9577674418604651
 "Fracture of other specified skull and facial bones, left side, initial encounter for closed fracture",0.676,0.037,12.496,0.792,0.9577674418604651
 Mixed incontinence (male) (female),0.736,0.074,7.276,0.793,0.9583661254377588
-Other specific muscle disorders,0.698,0.047,10.34,0.793,0.9583661254377588
+Other specific muscle disorders,0.698,0.047,10.341,0.793,0.9583661254377588
 "Pressure ulcer, hip",1.085,0.589,1.997,0.794,0.9592692552514321
 "Cannabis dependence, continuous",0.737,0.073,7.414,0.795,0.9598526048284626
 "Mantle cell lymphoma, unspecified site, extranodal and solid organ sites",1.146,0.408,3.219,0.796,0.9598526048284626
@@ -3149,24 +3149,24 @@ Closed fracture of shaft of radius (alone),0.745,0.08,6.941,0.796,0.959852604828
 Other enthesopathy of ankle and tarsus,0.729,0.067,7.986,0.796,0.9598526048284626
 Other bursitis,1.214,0.278,5.303,0.797,0.9601434465249127
 Acute upper respiratory infections of other multiple sites,0.931,0.539,1.607,0.797,0.9601434465249127
-"Cervical shortening, antepartum condition or complication",0.743,0.078,7.107,0.797,0.9601434465249127
+"Cervical shortening, antepartum condition or complication",0.743,0.078,7.108,0.797,0.9601434465249127
 Vesicoureteral reflux unspecified or without reflux nephropathy,1.318,0.159,10.901,0.798,0.9604337349397591
 Mechanical complication due to peritoneal dialysis catheter,0.747,0.08,7.009,0.798,0.9604337349397591
 Unspecified functional disorder of intestine,0.677,0.034,13.464,0.798,0.9604337349397591
 Infection and inflammatory reaction due to peritoneal dialysis catheter,1.177,0.337,4.113,0.799,0.9613324881141048
 Basal cell carcinoma of skin of other and unspecified parts of face,1.296,0.174,9.641,0.8,0.9619258789990497
-"Fracture of orbital floor, right side, initial encounter for closed fracture",0.671,0.03,14.809,0.8,0.9619258789990497
-Other mechanical complication of prosthetic joint implant,0.754,0.082,6.909,0.802,0.9636829807388696
+"Fracture of orbital floor, right side, initial encounter for closed fracture",0.671,0.03,14.81,0.8,0.9619258789990497
+Other mechanical complication of prosthetic joint implant,0.754,0.082,6.908,0.802,0.9636829807388696
 Cystic fibrosis gene carrier,0.741,0.072,7.673,0.802,0.9636829807388696
 "Post term pregnancy, delivered, with or without mention of antepartum condition",0.677,0.031,14.56,0.803,0.9636829807388696
 Methicillin susceptible Staphylococcus aureus septicemia,1.051,0.709,1.557,0.804,0.9636829807388696
 Other hypertrophic cardiomyopathy,0.92,0.474,1.784,0.804,0.9636829807388696
 Poisoning by other opiates and related narcotics,0.86,0.262,2.826,0.804,0.9636829807388696
-Disturbances of sulphur-bearing amino-acid metabolism,0.788,0.121,5.156,0.804,0.9636829807388696
+Disturbances of sulphur-bearing amino-acid metabolism,0.788,0.121,5.155,0.804,0.9636829807388696
 Non-pressure chronic ulcer of other part of left foot with other specified severity,0.768,0.096,6.127,0.804,0.9636829807388696
 Poisoning by psychodysleptics (hallucinogens),0.701,0.042,11.57,0.804,0.9636829807388696
-"Mental disorders of mother, delivered, with or without mention of antepartum condition",0.689,0.036,13.154,0.804,0.9636829807388696
-"Impulse control disorder, unspecified",0.68,0.032,14.507,0.805,0.9639307740717433
+"Mental disorders of mother, delivered, with or without mention of antepartum condition",0.689,0.036,13.155,0.804,0.9636829807388696
+"Impulse control disorder, unspecified",0.68,0.032,14.508,0.805,0.9639307740717433
 "Other complications due to other internal orthopedic device, implant, and graft",1.144,0.392,3.339,0.806,0.9639307740717433
 Other specified transient cerebral ischemias,0.902,0.398,2.047,0.806,0.9639307740717433
 Other congenital deformity of hip (joint),0.781,0.108,5.621,0.806,0.9639307740717433
@@ -3179,7 +3179,7 @@ Enthesopathy of unspecified site,0.754,0.078,7.266,0.807,0.9639307740717433
 "Other psychological or physical stress, not elsewhere classified",0.718,0.05,10.231,0.807,0.9639307740717433
 Other disturbances of aromatic amino-acid metabolism,0.742,0.067,8.225,0.808,0.9648216420257943
 "Panniculitis, unspecified site",1.375,0.104,18.168,0.809,0.9653671997491378
-Slowing of urinary stream,0.707,0.043,11.748,0.809,0.9653671997491378
+Slowing of urinary stream,0.707,0.043,11.747,0.809,0.9653671997491378
 Chronic pain due to trauma,1.177,0.313,4.418,0.81,0.9653671997491378
 "Mild or unspecified pre-eclampsia, postpartum condition or complication",0.763,0.085,6.885,0.81,0.9653671997491378
 Contact dermatitis and other eczema due to other chemical products,0.753,0.075,7.558,0.81,0.9653671997491378
@@ -3215,12 +3215,12 @@ Other family disruption,0.733,0.051,10.571,0.819,0.9673067828251399
 "Closed fracture of mandible, angle of jaw",0.72,0.043,11.958,0.819,0.9673067828251399
 Mastodynia,0.751,0.063,8.917,0.82,0.9678855721393035
 "Leukorrhea, not specified as infective",0.7,0.033,14.972,0.82,0.9678855721393035
-Wrist drop (acquired),1.312,0.125,13.712,0.821,0.9681627834731282
+Wrist drop (acquired),1.312,0.125,13.713,0.821,0.9681627834731282
 Aortocoronary bypass status,0.987,0.883,1.103,0.821,0.9681627834731282
 Other synovitis and tenosynovitis,0.829,0.163,4.208,0.821,0.9681627834731282
 Closed fracture of astragalus,0.847,0.199,3.599,0.822,0.9684394785847299
 Poisoning by skeletal muscle relaxants,0.74,0.054,10.204,0.822,0.9684394785847299
-"Abrasion or friction burn of foot and toe(s), without mention of infection",0.553,0.003,96.106,0.822,0.9684394785847299
+"Abrasion or friction burn of foot and toe(s), without mention of infection",0.553,0.003,96.11,0.822,0.9684394785847299
 Urinary hesitancy,0.846,0.197,3.639,0.823,0.9690161290322581
 Congenital monoplegia,0.717,0.039,13.317,0.823,0.9690161290322581
 "Elbow, forearm, and wrist injury",0.763,0.07,8.291,0.824,0.9695920644761313
@@ -3251,7 +3251,7 @@ Occlusion and stenosis of multiple and bilateral precerebral arteries without me
 "Contracture of joint, hand",0.819,0.127,5.299,0.834,0.9729145666871541
 Open fracture of upper end of tibia alone,0.811,0.114,5.743,0.834,0.9729145666871541
 Social maladjustment,0.752,0.053,10.692,0.834,0.9729145666871541
-Chronic pyelonephritis without lesion of renal medullary necrosis,0.711,0.029,17.271,0.834,0.9729145666871541
+Chronic pyelonephritis without lesion of renal medullary necrosis,0.711,0.029,17.272,0.834,0.9729145666871541
 Priapism,0.686,0.02,23.409,0.834,0.9729145666871541
 Sclerosing mesenteritis,0.822,0.129,5.241,0.835,0.9737818740399384
 Late effect of fracture of lower extremities,1.151,0.304,4.356,0.836,0.974050337630448
@@ -3271,7 +3271,7 @@ Hepatopulmonary syndrome,1.086,0.481,2.454,0.842,0.9768095238095239
 Other joint replacement,0.745,0.041,13.392,0.842,0.9768095238095239
 Generalized anxiety disorder,0.942,0.521,1.702,0.843,0.9768095238095239
 Toxic myopathy,0.926,0.43,1.994,0.843,0.9768095238095239
-"Acute inflammatory diseases of uterus, except cervix",0.77,0.058,10.241,0.843,0.9768095238095239
+"Acute inflammatory diseases of uterus, except cervix",0.77,0.058,10.242,0.843,0.9768095238095239
 Mixed irritable bowel syndrome,0.768,0.057,10.38,0.843,0.9768095238095239
 "Unspecified drug dependence, continuous",0.767,0.055,10.679,0.843,0.9768095238095239
 "Benign essential hypertension complicating pregnancy, childbirth, and the puerperium, antepartum condition or complication",0.764,0.053,10.956,0.843,0.9768095238095239
@@ -3279,8 +3279,8 @@ Mixed irritable bowel syndrome,0.768,0.057,10.38,0.843,0.9768095238095239
 "Open wound of finger(s), with tendon involvement",0.769,0.056,10.627,0.844,0.9772337583485123
 Other ureteric obstruction,0.958,0.621,1.477,0.845,0.9772337583485123
 Prolapse of vaginal vault after hysterectomy,0.789,0.074,8.418,0.845,0.9772337583485123
-Other abnormal granulation tissue,0.773,0.058,10.325,0.845,0.9772337583485123
-Endometriosis of pelvic peritoneum,0.772,0.057,10.371,0.845,0.9772337583485123
+Other abnormal granulation tissue,0.773,0.058,10.326,0.845,0.9772337583485123
+Endometriosis of pelvic peritoneum,0.772,0.057,10.372,0.845,0.9772337583485123
 Nephrotic syndrome in diseases classified elsewhere,0.832,0.131,5.297,0.846,0.9772337583485123
 "Abrasion or friction burn of shoulder and upper arm, without mention of infection",0.83,0.127,5.449,0.846,0.9772337583485123
 "Accidents caused by knives, swords, and daggers",0.797,0.081,7.88,0.846,0.9772337583485123
@@ -3304,7 +3304,7 @@ Cerebral atherosclerosis,1.033,0.734,1.454,0.852,0.9782794918330309
 Acute gouty arthropathy,0.964,0.659,1.412,0.852,0.9782794918330309
 "Diabetes mellitus of mother, complicating pregnancy, childbirth, or the puerperium, antepartum condition or complication",0.789,0.065,9.51,0.852,0.9782794918330309
 Mechanical complication due to insulin pump,0.772,0.051,11.65,0.852,0.9782794918330309
-Need for prophylactic vaccination and inoculation against viral hepatitis,0.768,0.048,12.221,0.852,0.9782794918330309
+Need for prophylactic vaccination and inoculation against viral hepatitis,0.768,0.048,12.222,0.852,0.9782794918330309
 Butyrophenone-based tranquilizers causing adverse effects in therapeutic use,1.114,0.354,3.503,0.854,0.9799830713422008
 "Other complications due to other cardiac device, implant, and graft",1.041,0.677,1.602,0.854,0.9799830713422008
 Adverse effects of work environment,1.236,0.128,11.922,0.855,0.98024161884627
@@ -3319,8 +3319,8 @@ Dysmetabolic syndrome X,0.918,0.362,2.325,0.857,0.9807190605239386
 Constrictive pericarditis,1.095,0.406,2.949,0.858,0.9807190605239386
 Other ill-defined heart diseases,1.052,0.603,1.835,0.858,0.9807190605239386
 Closed dislocation of ankle,0.781,0.053,11.624,0.858,0.9807190605239386
-Other headache syndromes,0.757,0.036,15.869,0.858,0.9807190605239386
-Closed Monteggia's fracture,0.803,0.07,9.16,0.859,0.9809759326113118
+Other headache syndromes,0.757,0.036,15.868,0.858,0.9807190605239386
+Closed Monteggia's fracture,0.803,0.07,9.161,0.859,0.9809759326113118
 Secondary neuroendocrine tumor of bone,0.791,0.059,10.568,0.859,0.9809759326113118
 "Other complications of obstetrical surgical wounds, delivered, with mention of postpartum complication",0.7,0.014,35.783,0.859,0.9809759326113118
 Unspecified infectious and parasitic diseases,1.099,0.385,3.136,0.86,0.9815273601924234
@@ -3333,33 +3333,33 @@ Radial styloid tenosynovitis,0.793,0.058,10.906,0.862,0.9826282282282282
 "Localization-related (focal) (partial) epilepsy and epileptic syndromes with simple partial seizures, with intractable epilepsy",1.107,0.342,3.589,0.865,0.9851605160516053
 "Cervical incompetence, antepartum condition or complication",0.805,0.066,9.859,0.865,0.9851605160516053
 Intestinal infection due to campylobacter,0.848,0.125,5.77,0.866,0.9856201017050553
-"Moderate or severe impairment, better eye, impairment level not further specified",0.701,0.011,42.816,0.866,0.9856201017050553
+"Moderate or severe impairment, better eye, impairment level not further specified",0.701,0.011,42.817,0.866,0.9856201017050553
 Prepatellar bursitis,0.813,0.072,9.151,0.867,0.9856201017050553
 Follicular cyst of ovary,0.773,0.038,15.592,0.867,0.9856201017050553
-Other specified noninflammatory disorders of vulva and perineum,0.739,0.022,25.28,0.867,0.9856201017050553
-Late effect of open wound of extremities without mention of tendon injury,0.7,0.011,45.843,0.867,0.9856201017050553
+Other specified noninflammatory disorders of vulva and perineum,0.739,0.022,25.279,0.867,0.9856201017050553
+Late effect of open wound of extremities without mention of tendon injury,0.7,0.011,45.842,0.867,0.9856201017050553
 Personal history of malignant neoplasm of other urinary organs,1.114,0.309,4.018,0.868,0.9856201017050553
 Other specified periodontal diseases,0.87,0.17,4.458,0.868,0.9856201017050553
 "Other cardiovascular diseases of mother, antepartum condition or complication",0.766,0.033,17.848,0.868,0.9856201017050553
-"Maxillary fracture, right side, initial encounter for closed fracture",0.694,0.009,51.932,0.868,0.9856201017050553
+"Maxillary fracture, right side, initial encounter for closed fracture",0.694,0.009,51.934,0.868,0.9856201017050553
 Adjustment disorder with mixed disturbance of emotions and conduct,1.213,0.121,12.106,0.869,0.9857829457364341
 "Injury to spleen without mention of open wound into cavity, capsular tears, without major disruption of parenchyma",1.127,0.268,4.742,0.87,0.9857829457364341
 Kidney donors,0.821,0.078,8.655,0.87,0.9857829457364341
 "Puerperal endometritis, postpartum condition or complication",0.793,0.049,12.747,0.87,0.9857829457364341
 "Previous cesarean delivery, antepartum condition or complication",0.791,0.048,13.145,0.87,0.9857829457364341
-"Infections of genitourinary tract in pregnancy, antepartum condition or complication",0.783,0.042,14.726,0.87,0.9857829457364341
-Other emotional disturbances of childhood or adolescence,0.743,0.021,26.259,0.87,0.9857829457364341
+"Infections of genitourinary tract in pregnancy, antepartum condition or complication",0.783,0.042,14.727,0.87,0.9857829457364341
+Other emotional disturbances of childhood or adolescence,0.743,0.021,26.258,0.87,0.9857829457364341
 "Cellulitis and abscess of finger, unspecified",1.052,0.569,1.945,0.871,0.9857829457364341
 C1-C4 level with central cord syndrome,0.876,0.177,4.339,0.871,0.9857829457364341
-"Labyrinthitis, unspecified",0.808,0.062,10.567,0.871,0.9857829457364341
+"Labyrinthitis, unspecified",0.808,0.062,10.566,0.871,0.9857829457364341
 "Spontaneous abortion, without mention of complication, incomplete",0.803,0.058,11.217,0.871,0.9857829457364341
-"Perpetrator of child and adult abuse, by father, stepfather, or boyfriend",0.724,0.014,36.986,0.872,0.9859886938411186
-"Infection of amniotic cavity, delivered, with or without mention of antepartum condition",0.654,0.004,112.651,0.872,0.9859886938411186
+"Perpetrator of child and adult abuse, by father, stepfather, or boyfriend",0.724,0.014,36.985,0.872,0.9859886938411186
+"Infection of amniotic cavity, delivered, with or without mention of antepartum condition",0.654,0.004,112.653,0.872,0.9859886938411186
 Other closed fracture of lower end of humerus,1.164,0.181,7.468,0.873,0.9859886938411186
 "Pressure ulcer, stage IV",1.038,0.656,1.642,0.873,0.9859886938411186
 "Chronic obstructive asthma, unspecified",1.018,0.821,1.261,0.873,0.9859886938411186
 Late effects of self-inflicted injury,0.791,0.044,14.086,0.873,0.9859886938411186
-Personal history of nutritional deficiency,0.711,0.011,46.144,0.873,0.9859886938411186
+Personal history of nutritional deficiency,0.711,0.011,46.146,0.873,0.9859886938411186
 Unspecified intellectual disabilities,0.965,0.625,1.491,0.874,0.986824509220702
 Other specified diseases of sebaceous glands,1.19,0.135,10.48,0.875,0.987072808320951
 Atrial flutter,0.989,0.86,1.138,0.875,0.987072808320951
@@ -3379,29 +3379,29 @@ Urethral hypermobility,0.797,0.04,15.712,0.881,0.9892402826855123
 "Diabetes with neurological manifestations, type I (juvenile type), uncontrolled",0.944,0.441,2.022,0.882,0.9892402826855123
 Babesiosis,0.909,0.26,3.183,0.882,0.9892402826855123
 "Severe pre-eclampsia, complicating the puerperium",0.818,0.058,11.448,0.882,0.9892402826855123
-"Elderly primigravida, antepartum condition or complication",0.806,0.046,13.996,0.882,0.9892402826855123
-"Cannabis dependence, in remission",0.716,0.009,58.996,0.882,0.9892402826855123
+"Elderly primigravida, antepartum condition or complication",0.806,0.046,13.997,0.882,0.9892402826855123
+"Cannabis dependence, in remission",0.716,0.009,58.997,0.882,0.9892402826855123
 Cellulitis and abscess of other specified sites,1.09,0.346,3.44,0.883,0.9892402826855123
 "Poisoning by other specified drugs and medicinal substances, undetermined whether accidentally or purposely inflicted",0.872,0.141,5.392,0.883,0.9892402826855123
 Other lesion of median nerve,0.82,0.058,11.649,0.883,0.9892402826855123
 "Fracture of medial malleolus, open",0.815,0.053,12.499,0.883,0.9892402826855123
 Early satiety,0.924,0.319,2.674,0.884,0.9892402826855123
 Late effect of certain other external causes,0.811,0.049,13.542,0.884,0.9892402826855123
-"Premature rupture of membranes, delivered, with or without mention of antepartum condition",0.769,0.023,25.936,0.884,0.9892402826855123
-"Coagulation defects complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition",0.724,0.009,55.439,0.884,0.9892402826855123
+"Premature rupture of membranes, delivered, with or without mention of antepartum condition",0.769,0.023,25.937,0.884,0.9892402826855123
+"Coagulation defects complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition",0.724,0.009,55.44,0.884,0.9892402826855123
 "Calculus of bile duct with acute cholecystitis, with obstruction",1.076,0.397,2.918,0.885,0.9892402826855123
 "Allergic arthritis, site unspecified",0.833,0.07,9.857,0.885,0.9892402826855123
 "Other affections of shoulder region, not elsewhere classified",0.832,0.068,10.147,0.885,0.9892402826855123
 Other peripheral vertigo,0.828,0.065,10.617,0.885,0.9892402826855123
 Other specified housing or economic circumstances,0.82,0.056,12.091,0.885,0.9892402826855123
-Suicide and self-inflicted poisoning by other sedatives and hypnotics,0.712,0.007,71.039,0.885,0.9892402826855123
+Suicide and self-inflicted poisoning by other sedatives and hypnotics,0.712,0.007,71.042,0.885,0.9892402826855123
 Family history of malignant neoplasm of gastrointestinal tract,1.019,0.783,1.327,0.886,0.9897751618599177
 "Open wound of foot except toe(s) alone, complicated",0.831,0.067,10.258,0.886,0.9897751618599177
 Nephrotic syndrome with lesion of membranous glomerulonephritis,1.123,0.227,5.561,0.887,0.9903094117647059
-"Secondary uterine inertia, delivered, with or without mention of antepartum condition",0.675,0.003,152.448,0.887,0.9903094117647059
+"Secondary uterine inertia, delivered, with or without mention of antepartum condition",0.675,0.003,152.449,0.887,0.9903094117647059
 "Body Mass Index 45.0-49.9, adult",1.029,0.69,1.535,0.888,0.9905014577259474
 Accidental fall from ladder,0.956,0.51,1.792,0.888,0.9905014577259474
-Sprain of unspecified site of back,0.823,0.055,12.43,0.888,0.9905014577259474
+Sprain of unspecified site of back,0.823,0.055,12.431,0.888,0.9905014577259474
 Herpes zoster with other ophthalmic complications,1.155,0.152,8.766,0.889,0.9905014577259474
 "Malignant neoplasm of vertebral column, excluding sacrum and coccyx",0.825,0.055,12.308,0.889,0.9905014577259474
 "Other ganglion and cyst of synovium, tendon, and bursa",0.821,0.051,13.115,0.889,0.9905014577259474
@@ -3409,7 +3409,7 @@ Lipidoses,0.827,0.055,12.354,0.89,0.9905014577259474
 Nonspecific abnormal electroencephalogram (EEG),0.819,0.048,14.054,0.89,0.9905014577259474
 Chronic gouty arthropathy with tophus (tophi),1.079,0.362,3.216,0.891,0.9905014577259474
 Gender identity disorder in children,0.834,0.062,11.216,0.891,0.9905014577259474
-"Other specified infectious and parasitic diseases of mother, antepartum condition or complication",0.798,0.031,20.313,0.891,0.9905014577259474
+"Other specified infectious and parasitic diseases of mother, antepartum condition or complication",0.798,0.031,20.314,0.891,0.9905014577259474
 Transfusion associated circulatory overload,1.096,0.292,4.111,0.892,0.9905014577259474
 Pneumococcal septicemia (Streptococcus pneumoniae septicemia),0.934,0.349,2.5,0.892,0.9905014577259474
 Renal and perinephric abscess,0.879,0.136,5.679,0.892,0.9905014577259474
@@ -3418,7 +3418,7 @@ Nonspecific abnormal results of other specified function study,0.832,0.059,11.72
 Poisoning by unspecified drug or medicinal substance,0.824,0.051,13.416,0.892,0.9905014577259474
 Familial Mediterranean fever,0.824,0.05,13.565,0.893,0.9905014577259474
 Secondary neuroendocrine tumor of peritoneum,0.802,0.032,20.049,0.893,0.9905014577259474
-Accidental poisoning by psychostimulants,0.707,0.005,109.908,0.893,0.9905014577259474
+Accidental poisoning by psychostimulants,0.707,0.005,109.911,0.893,0.9905014577259474
 Malignant carcinoid tumor of the bronchus and lung,1.105,0.256,4.778,0.894,0.9905014577259474
 Personal history of other genital system and obstetric disorders,0.82,0.044,15.121,0.894,0.9905014577259474
 "Other lymphoid leukemia, without mention of having achieved remission",1.125,0.195,6.48,0.895,0.9905014577259474
@@ -3427,16 +3427,16 @@ Personal history of other genital system and obstetric disorders,0.82,0.044,15.1
 Personal history of unspecified disorder of nervous system and sense organs,0.828,0.05,13.766,0.895,0.9905014577259474
 Other health problems within the family,0.827,0.049,13.876,0.895,0.9905014577259474
 "Premature separation of placenta, antepartum condition or complication",0.816,0.04,16.585,0.895,0.9905014577259474
-Accidental poisoning by antidepressants,0.805,0.032,20.447,0.895,0.9905014577259474
+Accidental poisoning by antidepressants,0.805,0.032,20.448,0.895,0.9905014577259474
 Dissociative identity disorder,0.801,0.029,21.832,0.895,0.9905014577259474
 Degeneration of thoracic or thoracolumbar intervertebral disc,0.823,0.045,15.086,0.896,0.9906930462612744
 "Open wound of wrist, with tendon involvement",1.149,0.142,9.301,0.897,0.9906930462612744
 Polycythemia vera,1.033,0.63,1.693,0.897,0.9906930462612744
 "Bronchitis, not specified as acute or chronic",0.961,0.522,1.768,0.897,0.9906930462612744
 Superior glenoid labrum lesion,0.838,0.058,12.179,0.897,0.9906930462612744
-Other complications of intestinal pouch,0.834,0.054,12.981,0.897,0.9906930462612744
+Other complications of intestinal pouch,0.834,0.054,12.982,0.897,0.9906930462612744
 "Peripheral neuritis in pregnancy, postpartum condition or complication",0.818,0.04,16.877,0.897,0.9906930462612744
-"Suicide and self-inflicted injury by caustic substances, except poisoning",1.288,0.026,63.58,0.899,0.9913121019108281
+"Suicide and self-inflicted injury by caustic substances, except poisoning",1.288,0.026,63.581,0.899,0.9913121019108281
 Postmastectomy lymphedema syndrome,1.088,0.294,4.024,0.899,0.9913121019108281
 Left bundle branch hemiblock,1.077,0.344,3.365,0.899,0.9913121019108281
 Unspecified adverse effect of anesthesia,0.952,0.443,2.044,0.899,0.9913121019108281
@@ -3447,7 +3447,7 @@ Apnea,1.055,0.457,2.436,0.901,0.9913121019108281
 Felon,0.845,0.06,11.885,0.901,0.9913121019108281
 "Stiffness of joint, not elsewhere classified, lower leg",0.843,0.058,12.336,0.901,0.9913121019108281
 "Kaposi's sarcoma, unspecified site",0.828,0.042,16.36,0.901,0.9913121019108281
-"Elderly primigravida, delivered, with or without mention of antepartum condition",0.795,0.021,29.451,0.901,0.9913121019108281
+"Elderly primigravida, delivered, with or without mention of antepartum condition",0.795,0.021,29.452,0.901,0.9913121019108281
 Acute parametritis and pelvic cellulitis,1.112,0.206,6.016,0.902,0.9913121019108281
 "Sacroiliitis, not elsewhere classified",1.092,0.265,4.498,0.902,0.9913121019108281
 Dissection of coronary artery,0.954,0.453,2.012,0.902,0.9913121019108281
@@ -3461,19 +3461,19 @@ Pilonidal cyst without mention of abscess,0.88,0.11,7.034,0.904,0.99178728323699
 Elevated C-reactive protein (CRP),0.839,0.048,14.533,0.904,0.9917872832369942
 "Marginal zone lymphoma, unspecified site, extranodal and solid organ sites",1.058,0.417,2.684,0.905,0.9920242564250651
 Late effect of certain complications of trauma,0.853,0.062,11.71,0.905,0.9920242564250651
-Family history of other endocrine and metabolic diseases,0.742,0.006,96.69,0.905,0.9920242564250651
+Family history of other endocrine and metabolic diseases,0.742,0.006,96.689,0.905,0.9920242564250651
 Lipodystrophy,0.844,0.051,13.93,0.906,0.9927831603229528
 "Displacement of intervertebral disc, site unspecified, without myelopathy",1.083,0.284,4.135,0.907,0.9927831603229528
 Other specified aftercare following surgery,0.844,0.049,14.513,0.907,0.9927831603229528
-Poisoning by barbiturates,0.774,0.01,57.64,0.907,0.9927831603229528
-"Outcome of delivery, single stillborn",0.716,0.003,194.063,0.907,0.9927831603229528
+Poisoning by barbiturates,0.774,0.01,57.644,0.907,0.9927831603229528
+"Outcome of delivery, single stillborn",0.716,0.003,194.07,0.907,0.9927831603229528
 "Food poisoning, unspecified",0.844,0.048,14.916,0.908,0.9930005724098455
-Poisoning by selective serotonin reuptake inhibitors,0.792,0.015,42.239,0.908,0.9930005724098455
+Poisoning by selective serotonin reuptake inhibitors,0.792,0.015,42.24,0.908,0.9930005724098455
 "Peripheral vertigo, unspecified",0.929,0.262,3.298,0.909,0.9930005724098455
 Bicipital tenosynovitis,0.886,0.109,7.184,0.91,0.9930005724098455
 "Other disorders of synovium, tendon, and bursa",0.85,0.05,14.416,0.91,0.9930005724098455
 Nonspecific abnormal findings in cerebrospinal fluid,0.85,0.051,14.062,0.91,0.9930005724098455
-Sterilization,0.822,0.027,25.134,0.91,0.9930005724098455
+Sterilization,0.822,0.027,25.135,0.91,0.9930005724098455
 Other motor vehicle traffic accident involving collision with motor vehicle injuring driver of motor vehicle other than motorcycle,1.028,0.636,1.662,0.911,0.9930005724098455
 Atherosclerosis of native arteries of the extremities with gangrene,0.981,0.697,1.38,0.911,0.9930005724098455
 "Hypertensive heart and chronic kidney disease, unspecified, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified",0.97,0.568,1.657,0.911,0.9930005724098455
@@ -3481,7 +3481,7 @@ Atherosclerosis of native arteries of the extremities with gangrene,0.981,0.697,
 Cerebrospinal fluid rhinorrhea,1.085,0.255,4.617,0.912,0.9930005724098455
 Other specified hemiplegia and hemiparesis affecting dominant side,1.021,0.701,1.487,0.912,0.9930005724098455
 Hiccough,0.97,0.568,1.656,0.912,0.9930005724098455
-Accidental poisoning by other specified tranquilizers,0.812,0.02,32.979,0.912,0.9930005724098455
+Accidental poisoning by other specified tranquilizers,0.812,0.02,32.98,0.912,0.9930005724098455
 Reflex sympathetic dystrophy of the lower limb,1.123,0.141,8.97,0.913,0.9930005724098455
 Adjustment disorder with disturbance of conduct,0.88,0.088,8.81,0.913,0.9930005724098455
 Other specified adjustment reactions,0.861,0.058,12.756,0.913,0.9930005724098455
@@ -3492,10 +3492,10 @@ Personal history of other mental disorders,0.84,0.037,19.241,0.913,0.99300057240
 "Epilepsia partialis continua, without mention of intractable epilepsy",1.082,0.26,4.506,0.914,0.9930005724098455
 Closed fracture of C5-C7 level with unspecified spinal cord injury,1.08,0.267,4.372,0.914,0.9930005724098455
 "Benign neoplasm of skin of trunk, except scrotum",0.848,0.042,16.923,0.914,0.9930005724098455
-"Unspecified renal disease in pregnancy, without mention of hypertension, antepartum condition or complication",0.817,0.021,32.359,0.914,0.9930005724098455
+"Unspecified renal disease in pregnancy, without mention of hypertension, antepartum condition or complication",0.817,0.021,32.36,0.914,0.9930005724098455
 "Diabetes with renal manifestations, type II or unspecified type, uncontrolled",0.972,0.575,1.643,0.915,0.9932342007434944
 Pyogenic granuloma of skin and subcutaneous tissue,0.868,0.065,11.524,0.915,0.9932342007434944
-"Postpartum coagulation defects, delivered, with mention of postpartum complication",0.702,0.001,462.76,0.915,0.9932342007434944
+"Postpartum coagulation defects, delivered, with mention of postpartum complication",0.702,0.001,462.776,0.915,0.9932342007434944
 "Primary central nervous system lymphoma, lymph nodes of head, face, and neck",0.845,0.037,19.095,0.916,0.9936492728828058
 Obstructive chronic bronchitis with acute bronchitis,1.02,0.698,1.493,0.917,0.9936492728828058
 "Malignant neoplasm of connective and other soft tissue of upper limb, including shoulder",0.879,0.078,9.949,0.917,0.9936492728828058
@@ -3505,13 +3505,13 @@ Aneurysm of iliac artery,0.967,0.51,1.833,0.918,0.9936492728828058
 Dermatomyositis,0.933,0.248,3.514,0.918,0.9936492728828058
 "Closed fracture of navicular (scaphoid), foot",0.852,0.041,17.77,0.918,0.9936492728828058
 Injury to radial blood vessels,0.849,0.038,18.766,0.918,0.9936492728828058
-"Other viral diseases in the mother, antepartum condition or complication",0.838,0.029,24.011,0.918,0.9936492728828058
+"Other viral diseases in the mother, antepartum condition or complication",0.838,0.029,24.012,0.918,0.9936492728828058
 "Other diseases of pharynx, not elsewhere classified",0.915,0.166,5.057,0.919,0.9938814814814815
 Acute hepatitis C without mention of hepatic coma,0.912,0.155,5.364,0.919,0.9938814814814815
 "Thyroiditis, unspecified",0.863,0.05,14.896,0.919,0.9938814814814815
 "Other specified bacterial infections in conditions classified elsewhere and of unspecified site, other specified bacteria",0.986,0.742,1.308,0.92,0.9939087560215358
 "Benign essential hypertension complicating pregnancy, childbirth, and the puerperium, delivered, with or without mention of antepartum condition",0.832,0.023,29.751,0.92,0.9939087560215358
-"Premature separation of placenta, delivered, with or without mention of antepartum condition",0.784,0.007,89.583,0.92,0.9939087560215358
+"Premature separation of placenta, delivered, with or without mention of antepartum condition",0.784,0.007,89.585,0.92,0.9939087560215358
 "Other malignant lymphomas, lymph nodes of inguinal region and lower limb",1.113,0.132,9.4,0.921,0.9939087560215358
 "Surgical operation with transplant of whole organ causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",0.984,0.716,1.352,0.921,0.9939087560215358
 "Injury to digital nerve, upper limb",0.831,0.021,32.313,0.921,0.9939087560215358
@@ -3523,12 +3523,12 @@ Family history of anemia,0.856,0.039,18.943,0.922,0.9939087560215358
 Lipoma of spermatic cord,0.866,0.047,16.072,0.923,0.9939087560215358
 Disorders of acoustic nerve,0.854,0.034,21.147,0.923,0.9939087560215358
 Activities involving bike riding,0.84,0.025,28.012,0.923,0.9939087560215358
-"Other specified indications for care or intervention related to labor and delivery, delivered, with or without mention of antepartum condition",0.722,0.001,510.996,0.923,0.9939087560215358
+"Other specified indications for care or intervention related to labor and delivery, delivered, with or without mention of antepartum condition",0.722,0.001,511.007,0.923,0.9939087560215358
 Occlusion and stenosis of vertebral artery without mention of cerebral infarction,0.964,0.454,2.049,0.924,0.9939087560215358
-Personal history of thrombophlebitis,0.912,0.138,6.023,0.924,0.9939087560215358
+Personal history of thrombophlebitis,0.912,0.138,6.022,0.924,0.9939087560215358
 Dual sensory impairment,0.912,0.136,6.109,0.924,0.9939087560215358
 "Bipolar I disorder, single manic episode, severe, specified as with psychotic behavior",0.863,0.043,17.357,0.924,0.9939087560215358
-History of emotional abuse,1.231,0.015,101.366,0.926,0.9940129104687062
+History of emotional abuse,1.231,0.015,101.367,0.926,0.9940129104687062
 Disorders of urea cycle metabolism,1.1,0.145,8.328,0.926,0.9940129104687062
 Hyperosmolality and/or hypernatremia,0.994,0.878,1.126,0.926,0.9940129104687062
 "Pregnant state, incidental",0.926,0.179,4.787,0.926,0.9940129104687062
@@ -3538,7 +3538,7 @@ Herpetic meningoencephalitis,1.07,0.254,4.506,0.927,0.9940129104687062
 Changes in skin texture,0.858,0.033,22.032,0.927,0.9940129104687062
 "Poor fetal growth, affecting management of mother, delivered, with or without mention of antepartum condition",0.839,0.02,34.881,0.927,0.9940129104687062
 "Undersocialized conduct disorder, aggressive type, unspecified",0.874,0.047,16.339,0.928,0.9940129104687062
-"Overexertion from strenuous movement or load, initial encounter",0.869,0.041,18.592,0.928,0.9940129104687062
+"Overexertion from strenuous movement or load, initial encounter",0.869,0.041,18.593,0.928,0.9940129104687062
 Late effect of fracture of neck of femur,0.867,0.039,19.13,0.928,0.9940129104687062
 Allergy to peanuts,0.867,0.039,19.244,0.928,0.9940129104687062
 "Overexertion from prolonged static or awkward postures, initial encounter",0.867,0.039,19.054,0.928,0.9940129104687062
@@ -3551,15 +3551,15 @@ Other plastic surgery for unacceptable cosmetic appearance,0.869,0.038,19.771,0.
 "Thyroid dysfunction of mother, delivered, with or without mention of antepartum condition",0.831,0.013,52.794,0.93,0.9940129104687062
 Other specified acquired hypothyroidism,0.972,0.51,1.853,0.931,0.9940129104687062
 "Cocaine dependence, unspecified",0.946,0.267,3.348,0.931,0.9940129104687062
-"Transient hypertension of pregnancy, delivered , with or without mention of antepartum condition",0.847,0.02,35.386,0.931,0.9940129104687062
+"Transient hypertension of pregnancy, delivered , with or without mention of antepartum condition",0.847,0.02,35.387,0.931,0.9940129104687062
 "Anxiety state, unspecified",0.996,0.912,1.088,0.932,0.9940129104687062
 Postprocedural seroma of a musculoskeletal structure following a musculoskeletal system procedure,0.877,0.044,17.493,0.932,0.9940129104687062
 Premenopausal menorrhagia,0.873,0.038,19.828,0.932,0.9940129104687062
 "Open wound of forearm, with tendon involvement",0.867,0.033,22.803,0.932,0.9940129104687062
 "Rhesus isoimmunization, antepartum condition or complication",0.852,0.022,33.638,0.932,0.9940129104687062
-"Unspecified renal disease in pregnancy, without mention of hypertension, delivered, with or without mention of antepartum condition",0.745,0.001,667.153,0.932,0.9940129104687062
+"Unspecified renal disease in pregnancy, without mention of hypertension, delivered, with or without mention of antepartum condition",0.745,0.001,667.182,0.932,0.9940129104687062
 Other complications of gastric band procedure,0.885,0.051,15.317,0.933,0.9940129104687062
-Urethral diverticulum,0.878,0.042,18.243,0.933,0.9940129104687062
+Urethral diverticulum,0.878,0.042,18.244,0.933,0.9940129104687062
 Irregular menstrual cycle,0.873,0.037,20.399,0.933,0.9940129104687062
 Keloid scar,0.872,0.036,21.083,0.933,0.9940129104687062
 Diffuse cystic mastopathy,0.876,0.037,20.811,0.934,0.9945200561009818
@@ -3570,15 +3570,15 @@ Accidents caused by other hand tools and implements,0.871,0.029,25.754,0.936,0.9
 Encounter for insertion of intrauterine contraceptive device,0.864,0.024,31.175,0.936,0.9955326421966938
 "Unqualified visual loss, both eyes",1.062,0.24,4.702,0.937,0.9957592385218366
 Crushing injury of finger(s),0.867,0.026,29.464,0.937,0.9957592385218366
-"Other and unspecified abnormality of organs and soft tissues of pelvis, delivered, with or without mention of antepartum condition",0.747,0.001,1031.501,0.937,0.9957592385218366
-"Intrauterine death, affecting management of mother, delivered, with or without mention of antepartum condition",0.763,0.001,688.288,0.938,0.9965429610971172
+"Other and unspecified abnormality of organs and soft tissues of pelvis, delivered, with or without mention of antepartum condition",0.747,0.001,1031.531,0.937,0.9957592385218366
+"Intrauterine death, affecting management of mother, delivered, with or without mention of antepartum condition",0.763,0.001,688.318,0.938,0.9965429610971172
 "Other and unspecified alcohol dependence, in remission",0.99,0.773,1.269,0.939,0.9973262451035253
 Anisocoria,0.975,0.501,1.896,0.94,0.9975510204081632
 "Complications of transplanted organ, stem cell",0.974,0.487,1.947,0.94,0.9975510204081632
-Endometriosis of other specified sites,0.868,0.022,34.067,0.94,0.9975510204081632
+Endometriosis of other specified sites,0.868,0.022,34.068,0.94,0.9975510204081632
 Personal history of malignant neoplasm of thyroid,0.986,0.678,1.434,0.941,0.9977754189944134
 Late effect of injury due to war operations,0.885,0.034,23.303,0.941,0.9977754189944134
-Meningitis in other bacterial diseases classified elsewhere,0.874,0.025,30.898,0.941,0.9977754189944134
+Meningitis in other bacterial diseases classified elsewhere,0.874,0.025,30.899,0.941,0.9977754189944134
 Observation following alleged rape or seduction,0.892,0.042,18.94,0.942,0.9982780569514238
 Old vaginal laceration,0.881,0.029,26.922,0.942,0.9982780569514238
 Hypoparathyroidism,1.044,0.323,3.372,0.943,0.9984463638896628
@@ -3590,12 +3590,12 @@ Arthropathy associated with gastrointestinal conditions other than infections,0.
 Other specified retained foreign body,0.88,0.025,31.119,0.944,0.9984463638896628
 Unspecified endocrine disorder,0.886,0.028,27.872,0.945,0.999225626740947
 Impacted cerumen,0.966,0.361,2.586,0.946,0.9993917153183208
-Abnormal weight gain,0.947,0.197,4.543,0.946,0.9993917153183208
+Abnormal weight gain,0.947,0.197,4.542,0.946,0.9993917153183208
 "Eosinophilic gastritis, without mention of hemorrhage",1.124,0.036,35.197,0.947,0.9993917153183208
 "Open wound of tongue and floor of mouth, without mention of complication",1.042,0.308,3.527,0.947,0.9993917153183208
 "Radiological procedure and radiotherapy as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",0.987,0.674,1.446,0.947,0.9993917153183208
 Other fragments of torsion dystonia,0.887,0.025,30.964,0.947,0.9993917153183208
-"Oligohydramnios, delivered, with or without mention of antepartum condition",0.869,0.014,54.788,0.947,0.9993917153183208
+"Oligohydramnios, delivered, with or without mention of antepartum condition",0.869,0.014,54.789,0.947,0.9993917153183208
 "Bipolar I disorder, most recent episode (or current) mixed, severe, specified as with psychotic behavior",0.898,0.035,23.148,0.948,0.9995266209804956
 "Benign essential hypertension complicating pregnancy, childbirth, and the puerperium, postpartum condition or complication",0.889,0.026,30.002,0.948,0.9995266209804956
 "Arteritis, unspecified",1.024,0.496,2.114,0.949,0.9995266209804956
@@ -3604,18 +3604,18 @@ Heart replaced by transplant,0.923,0.082,10.41,0.949,0.9995266209804956
 "Breech or other malpresentation successfully converted to cephalic presentation, delivered, with or without mention of antepartum condition",0.882,0.02,39.739,0.949,0.9995266209804956
 Injury to digital blood vessels,0.88,0.017,46.236,0.949,0.9995266209804956
 "Neurofibromatosis, type 1 (von recklinghausen's disease)",0.922,0.071,12.039,0.95,0.9995266209804956
-Injury to ulnar blood vessels,0.879,0.015,50.304,0.95,0.9995266209804956
+Injury to ulnar blood vessels,0.879,0.015,50.305,0.95,0.9995266209804956
 Other personality disorders,0.895,0.026,30.449,0.951,0.9995266209804956
-"Abnormality in fetal heart rate or rhythm, antepartum condition or complication",0.895,0.027,29.949,0.951,0.9995266209804956
-"Mental disorders of mother, delivered, with mention of postpartum complication",0.884,0.017,45.981,0.951,0.9995266209804956
+"Abnormality in fetal heart rate or rhythm, antepartum condition or complication",0.895,0.027,29.95,0.951,0.9995266209804956
+"Mental disorders of mother, delivered, with mention of postpartum complication",0.884,0.017,45.982,0.951,0.9995266209804956
 "Zygomatic fracture, left side, initial encounter for closed fracture",0.913,0.048,17.468,0.952,0.9995266209804956
-Metrorrhagia,0.896,0.025,32.539,0.952,0.9995266209804956
+Metrorrhagia,0.896,0.025,32.54,0.952,0.9995266209804956
 "Other abnormalities in shape or position of gravid uterus and of neighboring structures, antepartum condition or complication",0.891,0.021,37.092,0.952,0.9995266209804956
 Mucous polyp of cervix,0.894,0.021,38.857,0.953,0.9995266209804956
 Poisoning-antidepressant,1.082,0.075,15.653,0.954,0.9995266209804956
 Contusion of upper arm,0.965,0.284,3.274,0.954,0.9995266209804956
-Educational circumstances,0.898,0.023,35.44,0.954,0.9995266209804956
-"Tumors of body of uterus, delivered, with or without mention of antepartum condition",0.88,0.012,67.328,0.954,0.9995266209804956
+Educational circumstances,0.898,0.023,35.441,0.954,0.9995266209804956
+"Tumors of body of uterus, delivered, with or without mention of antepartum condition",0.88,0.012,67.33,0.954,0.9995266209804956
 "Abdominal or pelvic swelling, mass, or lump, unspecified site",0.97,0.335,2.809,0.955,0.9995266209804956
 Deformity of reconstructed breast,0.907,0.031,26.202,0.955,0.9995266209804956
 "Breech presentation without mention of version, antepartum condition or complication",0.898,0.022,36.908,0.955,0.9995266209804956
@@ -3623,175 +3623,175 @@ Deformity of reconstructed breast,0.907,0.031,26.202,0.955,0.9995266209804956
 Hereditary progressive muscular dystrophy,1.046,0.214,5.102,0.956,0.9995266209804956
 Malignant neoplasm of body of stomach,1.033,0.327,3.258,0.956,0.9995266209804956
 "Unspecified gastritis and gastroduodenitis, with hemorrhage",1.019,0.52,1.998,0.956,0.9995266209804956
-"Epilepsy complicating pregnancy, childbirth, or the puerperium, antepartum condition or complication",0.903,0.023,35.733,0.956,0.9995266209804956
+"Epilepsy complicating pregnancy, childbirth, or the puerperium, antepartum condition or complication",0.903,0.023,35.734,0.956,0.9995266209804956
 "Other complications due to nervous system device, implant, and graft",0.961,0.225,4.107,0.957,0.9995266209804956
 Antacids and antigastric secretion drugs causing adverse effects in therapeutic use,0.955,0.183,4.98,0.957,0.9995266209804956
 Genetic torsion dystonia,0.907,0.025,32.42,0.957,0.9995266209804956
 "Open wound of other and unspecified parts of neck, without mention of complication",0.949,0.138,6.524,0.958,0.9995266209804956
 Assault by human bite,0.907,0.025,32.56,0.958,0.9995266209804956
-"Infections of genitourinary tract in pregnancy, delivered, with or without mention of antepartum condition",0.899,0.016,50.483,0.958,0.9995266209804956
-Pregnancy resulting from assisted reproductive technology,0.893,0.013,61.918,0.958,0.9995266209804956
+"Infections of genitourinary tract in pregnancy, delivered, with or without mention of antepartum condition",0.899,0.016,50.484,0.958,0.9995266209804956
+Pregnancy resulting from assisted reproductive technology,0.893,0.013,61.919,0.958,0.9995266209804956
 Other and unspecified factitious illness,0.899,0.014,58.036,0.96,0.9995266209804956
-"Anemia of mother, delivered, with mention of postpartum complication",0.88,0.006,132.573,0.96,0.9995266209804956
-"Severe pre-eclampsia, delivered, with or without mention of antepartum condition",0.875,0.005,167.714,0.96,0.9995266209804956
-Other specified genital prolapse,0.907,0.016,51.863,0.962,0.9995266209804956
-"Cervical shortening, delivered, with or without mention of antepartum condition",0.905,0.013,64.781,0.963,0.9995266209804956
-"Diabetes mellitus of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition",0.902,0.012,69.647,0.963,0.9995266209804956
-"Other specified fetal and placental problems, affecting management of mother, delivered, with or without mention of antepartum condition",0.885,0.005,155.961,0.963,0.9995266209804956
+"Anemia of mother, delivered, with mention of postpartum complication",0.88,0.006,132.576,0.96,0.9995266209804956
+"Severe pre-eclampsia, delivered, with or without mention of antepartum condition",0.875,0.005,167.718,0.96,0.9995266209804956
+Other specified genital prolapse,0.907,0.016,51.864,0.962,0.9995266209804956
+"Cervical shortening, delivered, with or without mention of antepartum condition",0.905,0.013,64.782,0.963,0.9995266209804956
+"Diabetes mellitus of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition",0.902,0.012,69.649,0.963,0.9995266209804956
+"Other specified fetal and placental problems, affecting management of mother, delivered, with or without mention of antepartum condition",0.885,0.005,155.963,0.963,0.9995266209804956
 "Major depressive affective disorder, single episode, moderate",0.908,0.014,57.795,0.964,0.9995266209804956
-"Rhesus isoimmunization, delivered, with or without mention of antepartum condition",0.89,0.006,136.582,0.964,0.9995266209804956
+"Rhesus isoimmunization, delivered, with or without mention of antepartum condition",0.89,0.006,136.583,0.964,0.9995266209804956
 Personal history of allergy to other anti-infective agent,1.063,0.069,16.445,0.965,0.9995266209804956
 "Calculus of bile duct with acute cholecystitis, without mention of obstruction",0.972,0.273,3.468,0.965,0.9995266209804956
 Endometrial intraepithelial neoplasia (EIN),0.918,0.019,44.173,0.965,0.9995266209804956
-Pregnancy with history of pre-term labor,0.91,0.014,59.346,0.965,0.9995266209804956
-Suicide and self-inflicted injury by other specified means,0.905,0.011,75.602,0.965,0.9995266209804956
+Pregnancy with history of pre-term labor,0.91,0.014,59.347,0.965,0.9995266209804956
+Suicide and self-inflicted injury by other specified means,0.905,0.011,75.604,0.965,0.9995266209804956
 "Vascular dementia, with delirium",1.014,0.536,1.92,0.966,0.9995266209804956
 Transsexualism,0.92,0.02,42.013,0.966,0.9995266209804956
-Hirsutism,0.913,0.015,56.294,0.966,0.9995266209804956
-Other inflammatory spondylopathies,0.912,0.013,62.078,0.966,0.9995266209804956
-"Tobacco use disorder complicating pregnancy, childbirth, or the puerperium, antepartum condition or complication",0.907,0.01,81.43,0.966,0.9995266209804956
-"Breech presentation without mention of version, delivered, with or without mention of antepartum condition",0.902,0.007,109.933,0.966,0.9995266209804956
-Chronic factitious illness with physical symptoms,0.919,0.016,53.544,0.967,0.9995266209804956
-"Late vomiting of pregnancy, antepartum condition or complication",0.919,0.016,52.477,0.967,0.9995266209804956
-Family disruption due to divorce or legal separation,0.917,0.016,51.913,0.967,0.9995266209804956
-"Tumors of body of uterus, antepartum condition or complication",0.913,0.013,63.293,0.967,0.9995266209804956
+Hirsutism,0.913,0.015,56.295,0.966,0.9995266209804956
+Other inflammatory spondylopathies,0.912,0.013,62.082,0.966,0.9995266209804956
+"Tobacco use disorder complicating pregnancy, childbirth, or the puerperium, antepartum condition or complication",0.907,0.01,81.432,0.966,0.9995266209804956
+"Breech presentation without mention of version, delivered, with or without mention of antepartum condition",0.902,0.007,109.934,0.966,0.9995266209804956
+Chronic factitious illness with physical symptoms,0.919,0.016,53.545,0.967,0.9995266209804956
+"Late vomiting of pregnancy, antepartum condition or complication",0.919,0.016,52.478,0.967,0.9995266209804956
+Family disruption due to divorce or legal separation,0.917,0.016,51.914,0.967,0.9995266209804956
+"Tumors of body of uterus, antepartum condition or complication",0.913,0.013,63.294,0.967,0.9995266209804956
 Other acquired deformity of other parts of limb,0.952,0.086,10.598,0.968,0.9995266209804956
-Poisoning by antitussives,0.92,0.016,52.609,0.968,0.9995266209804956
+Poisoning by antitussives,0.92,0.016,52.61,0.968,0.9995266209804956
 "Infection following a procedure, deep incisional surgical site, initial encounter",0.92,0.016,53.563,0.968,0.9995266209804956
 Other specified organ or tissue replaced by transplant,1.055,0.071,15.692,0.969,0.9995266209804956
 "Tricuspid valve disorders, specified as nonrheumatic",0.992,0.65,1.513,0.969,0.9995266209804956
 Ptosis of breast,0.922,0.016,54.274,0.969,0.9995266209804956
-Other lesion of femoral nerve,0.92,0.014,59.248,0.969,0.9995266209804956
-"Other complications of puerperium, delivered, with mention of postpartum complication",0.863,0.001,1373.297,0.969,0.9995266209804956
+Other lesion of femoral nerve,0.92,0.014,59.249,0.969,0.9995266209804956
+"Other complications of puerperium, delivered, with mention of postpartum complication",0.863,0.001,1373.334,0.969,0.9995266209804956
 "Open wound of forearm, complicated",1.042,0.126,8.644,0.97,0.9995266209804956
-"Sedative, hypnotic or anxiolytic dependence, continuous",1.048,0.086,12.819,0.971,0.9995266209804956
+"Sedative, hypnotic or anxiolytic dependence, continuous",1.048,0.086,12.82,0.971,0.9995266209804956
 Human immunodeficiency virus (HIV) disease,1.005,0.766,1.319,0.971,0.9995266209804956
 "Pressure ulcer, lower back",0.996,0.82,1.211,0.971,0.9995266209804956
-Glycosuria,0.925,0.014,62.45,0.971,0.9995266209804956
-"Cord around neck, with compression, complicating labor and delivery, delivered, with or without mention of antepartum condition",0.904,0.004,195.22,0.971,0.9995266209804956
-Unspecified psychophysiological malfunction,0.924,0.012,73.067,0.972,0.9995266209804956
-"Obesity complicating pregnancy, childbirth, or the puerperium, antepartum condition or complication",0.913,0.006,140.531,0.972,0.9995266209804956
-"Mild or unspecified pre-eclampsia, delivered, with or without mention of antepartum condition",0.91,0.005,169.014,0.972,0.9995266209804956
+Glycosuria,0.925,0.014,62.451,0.971,0.9995266209804956
+"Cord around neck, with compression, complicating labor and delivery, delivered, with or without mention of antepartum condition",0.904,0.004,195.223,0.971,0.9995266209804956
+Unspecified psychophysiological malfunction,0.924,0.012,73.07,0.972,0.9995266209804956
+"Obesity complicating pregnancy, childbirth, or the puerperium, antepartum condition or complication",0.913,0.006,140.537,0.972,0.9995266209804956
+"Mild or unspecified pre-eclampsia, delivered, with or without mention of antepartum condition",0.91,0.005,169.018,0.972,0.9995266209804956
 Alcoholic cirrhosis of liver,0.997,0.822,1.208,0.973,0.9995266209804956
-Dependent personality disorder,0.925,0.01,89.505,0.973,0.9995266209804956
-"Cervical incompetence, delivered, with or without mention of antepartum condition",0.922,0.008,104.718,0.973,0.9995266209804956
+Dependent personality disorder,0.925,0.01,89.508,0.973,0.9995266209804956
+"Cervical incompetence, delivered, with or without mention of antepartum condition",0.922,0.008,104.72,0.973,0.9995266209804956
 "Graft-versus-host disease, unspecified",1.013,0.456,2.252,0.974,0.9995266209804956
 "Generalized convulsive epilepsy, without mention of intractable epilepsy",1.01,0.57,1.788,0.974,0.9995266209804956
 "Amphetamine and other psychostimulant dependence, unspecified",0.93,0.013,66.987,0.974,0.9995266209804956
-"Other specified infectious and parasitic diseases of mother, delivered, with or without mention of antepartum condition",0.905,0.002,395.154,0.974,0.9995266209804956
+"Other specified infectious and parasitic diseases of mother, delivered, with or without mention of antepartum condition",0.905,0.002,395.17,0.974,0.9995266209804956
 "Acute myeloid leukemia, in remission",0.99,0.528,1.857,0.975,0.9995266209804956
 Perforation of esophagus,0.98,0.284,3.384,0.975,0.9995266209804956
 "Infection following a procedure, unspecified, initial encounter",0.941,0.02,43.41,0.975,0.9995266209804956
-"Delayed delivery after spontaneous or unspecified rupture of membranes, delivered, with or without mention of antepartum condition",0.916,0.003,242.894,0.975,0.9995266209804956
+"Delayed delivery after spontaneous or unspecified rupture of membranes, delivered, with or without mention of antepartum condition",0.916,0.003,242.9,0.975,0.9995266209804956
 Other specified diseases of pericardium,1.012,0.465,2.202,0.976,0.9995266209804956
 Acute laryngitis without mention of obstruction,1.023,0.207,5.067,0.977,0.9995266209804956
-Genu valgum (acquired),0.937,0.011,79.795,0.977,0.9995266209804956
-"Unspecified antepartum hemorrhage, delivered, with or without mention of antepartum condition",0.935,0.008,106.126,0.978,0.9995266209804956
+Genu valgum (acquired),0.937,0.011,79.794,0.977,0.9995266209804956
+"Unspecified antepartum hemorrhage, delivered, with or without mention of antepartum condition",0.935,0.008,106.128,0.978,0.9995266209804956
 Unspecified housing or economic circumstance,0.943,0.011,80.033,0.979,0.9995266209804956
-"Other specified trauma to perineum and vulva, delivered, with or without mention of antepartum condition",0.924,0.002,353.696,0.979,0.9995266209804956
-"Displacement of nephrostomy catheter, initial encounter",1.037,0.061,17.505,0.98,0.9995266209804956
-Other pain disorders related to psychological factors,0.941,0.008,109.366,0.98,0.9995266209804956
+"Other specified trauma to perineum and vulva, delivered, with or without mention of antepartum condition",0.924,0.002,353.699,0.979,0.9995266209804956
+"Displacement of nephrostomy catheter, initial encounter",1.037,0.061,17.506,0.98,0.9995266209804956
+Other pain disorders related to psychological factors,0.941,0.008,109.367,0.98,0.9995266209804956
 Vomiting following gastrointestinal surgery,1.036,0.055,19.688,0.981,0.9995266209804956
 Poisoning by sympatholytics (antiadrenergics),1.019,0.217,4.779,0.981,0.9995266209804956
-Endometriosis of fallopian tube,0.934,0.004,221.503,0.981,0.9995266209804956
-"Placenta previa without hemorrhage, delivered, with or without mention of antepartum condition",0.924,0.001,602.896,0.981,0.9995266209804956
+Endometriosis of fallopian tube,0.934,0.004,221.507,0.981,0.9995266209804956
+"Placenta previa without hemorrhage, delivered, with or without mention of antepartum condition",0.924,0.001,602.941,0.981,0.9995266209804956
 Peritoneal abscess,1.004,0.703,1.434,0.982,0.9995266209804956
-"Pyrexia of unknown origin during the puerperium, delivered, with mention of postpartum complication",0.929,0.001,656.608,0.982,0.9995266209804956
+"Pyrexia of unknown origin during the puerperium, delivered, with mention of postpartum complication",0.929,0.001,656.638,0.982,0.9995266209804956
 Hereditary spastic paraplegia,1.017,0.222,4.666,0.983,0.9995266209804956
-Social phobia,0.948,0.007,135.949,0.983,0.9995266209804956
-"Other known or suspected fetal abnormality, not elsewhere classified, affecting management of mother, delivered, with or without mention of antepartum condition",0.942,0.004,250.043,0.983,0.9995266209804956
-"Acute kidney failure following labor and delivery, delivered, with mention of postpartum complication",0.937,0.002,400.165,0.983,0.9995266209804956
+Social phobia,0.948,0.007,135.95,0.983,0.9995266209804956
+"Other known or suspected fetal abnormality, not elsewhere classified, affecting management of mother, delivered, with or without mention of antepartum condition",0.942,0.004,250.049,0.983,0.9995266209804956
+"Acute kidney failure following labor and delivery, delivered, with mention of postpartum complication",0.937,0.002,400.183,0.983,0.9995266209804956
 Chronic and other pulmonary manifestations due to radiation,0.987,0.272,3.582,0.984,0.9995266209804956
-Schizotypal personality disorder,0.955,0.012,78.361,0.984,0.9995266209804956
-Intermittent explosive disorder,0.944,0.003,258.322,0.984,0.9995266209804956
-"Transverse or oblique presentation, delivered, with or without mention of antepartum condition",0.943,0.003,343.338,0.984,0.9995266209804956
-Somatization disorder,0.956,0.01,88.862,0.985,0.9995266209804956
-"Third-degree perineal laceration, delivered, with or without mention of antepartum condition",0.942,0.002,417.282,0.985,0.9995266209804956
-"Decreased fetal movements, affecting management of mother, delivered, with or without mention of antepartum condition",0.94,0.002,577.956,0.985,0.9995266209804956
-"Primary uterine inertia, delivered, with or without mention of antepartum condition",0.938,0.001,871.043,0.985,0.9995266209804956
+Schizotypal personality disorder,0.955,0.012,78.363,0.984,0.9995266209804956
+Intermittent explosive disorder,0.944,0.003,258.324,0.984,0.9995266209804956
+"Transverse or oblique presentation, delivered, with or without mention of antepartum condition",0.943,0.003,343.351,0.984,0.9995266209804956
+Somatization disorder,0.956,0.01,88.858,0.985,0.9995266209804956
+"Third-degree perineal laceration, delivered, with or without mention of antepartum condition",0.942,0.002,417.287,0.985,0.9995266209804956
+"Decreased fetal movements, affecting management of mother, delivered, with or without mention of antepartum condition",0.94,0.002,577.967,0.985,0.9995266209804956
+"Primary uterine inertia, delivered, with or without mention of antepartum condition",0.938,0.001,871.055,0.985,0.9995266209804956
 Influenza with other respiratory manifestations,0.997,0.675,1.471,0.986,0.9995266209804956
-"Cerebrovascular disorders in the puerperium, delivered, with or without mention of antepartum condition",0.952,0.004,215.116,0.986,0.9995266209804956
-Normal delivery,0.95,0.003,278.939,0.986,0.9995266209804956
-"Other umbilical cord complications complicating labor and delivery, delivered, with or without mention of antepartum condition",0.947,0.002,385.362,0.986,0.9995266209804956
-"Third-stage postpartum hemorrhage, delivered, with mention of postpartum complication",0.939,0.001,1677.872,0.987,0.9995266209804956
+"Cerebrovascular disorders in the puerperium, delivered, with or without mention of antepartum condition",0.952,0.004,215.119,0.986,0.9995266209804956
+Normal delivery,0.95,0.003,278.94,0.986,0.9995266209804956
+"Other umbilical cord complications complicating labor and delivery, delivered, with or without mention of antepartum condition",0.947,0.002,385.366,0.986,0.9995266209804956
+"Third-stage postpartum hemorrhage, delivered, with mention of postpartum complication",0.939,0.001,1677.955,0.987,0.9995266209804956
 "Infection following a procedure, superficial incisional surgical site, initial encounter",1.015,0.145,7.085,0.988,0.9995266209804956
 "Chronic erythremia, without mention of having achieved remission",1.007,0.405,2.502,0.988,0.9995266209804956
-"Localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures, with intractable epilepsy",1.007,0.386,2.628,0.988,0.9995266209804956
 Other and unspecified angina pectoris,0.998,0.815,1.223,0.988,0.9995266209804956
 "Intervertebral disc disorder with myelopathy, cervical region",0.993,0.412,2.397,0.988,0.9995266209804956
-"Other current conditions classifiable elsewhere of mother, delivered, with mention of postpartum complication",0.941,0.0,2027.507,0.988,0.9995266209804956
-"Tobacco use disorder complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition",0.953,0.001,1256.999,0.989,0.9995266209804956
-"Failed medical or unspecified induction of labor, delivered, with or without mention of antepartum condition",0.948,0.0,1947.612,0.989,0.9995266209804956
+"Other current conditions classifiable elsewhere of mother, delivered, with mention of postpartum complication",0.941,0.0,2027.554,0.988,0.9995266209804956
+"Localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures, with intractable epilepsy",1.007,0.386,2.628,0.989,0.9995266209804956
+"Tobacco use disorder complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition",0.953,0.001,1257.042,0.989,0.9995266209804956
+"Failed medical or unspecified induction of labor, delivered, with or without mention of antepartum condition",0.948,0.0,1947.65,0.989,0.9995266209804956
 Personal history of malignant neoplasm of eye,1.009,0.247,4.111,0.99,0.9995266209804956
-"Excessive fetal growth, affecting management of mother, delivered, with or without mention of antepartum condition",0.953,0.0,2217.74,0.99,0.9995266209804956
-"Other specified malposition or malpresentation, delivered, with or without mention of antepartum condition",0.952,0.0,1982.48,0.99,0.9995266209804956
-"Other abnormalities in shape or position of gravid uterus and of neighboring structures, delivered, with or without mention of antepartum condition",0.949,0.0,4118.352,0.99,0.9995266209804956
-"Drug dependence of mother, delivered, with or without mention of antepartum condition",0.941,0.0,10270.332,0.99,0.9995266209804956
-Chronic hepatitis C with hepatic coma,1.002,0.619,1.622,0.992,0.9995266209804956
+"Excessive fetal growth, affecting management of mother, delivered, with or without mention of antepartum condition",0.953,0.0,2217.777,0.99,0.9995266209804956
+"Other specified malposition or malpresentation, delivered, with or without mention of antepartum condition",0.952,0.0,1982.542,0.99,0.9995266209804956
+"Other abnormalities in shape or position of gravid uterus and of neighboring structures, delivered, with or without mention of antepartum condition",0.949,0.0,4118.436,0.99,0.9995266209804956
+"Drug dependence of mother, delivered, with or without mention of antepartum condition",0.941,0.0,10270.853,0.99,0.9995266209804956
 Other abnormality of red blood cells,0.985,0.048,20.28,0.992,0.9995266209804956
-"Hemorrhage from placenta previa, delivered, with or without mention of antepartum condition",0.965,0.001,1201.236,0.992,0.9995266209804956
-Dyspareunia,0.964,0.001,1578.929,0.992,0.9995266209804956
-"Polyhydramnios, delivered, with or without mention of antepartum condition",0.963,0.0,2379.992,0.992,0.9995266209804956
-"Obstruction caused by malposition of fetus at onset of labor, delivered, with or without mention of antepartum condition",0.962,0.001,1657.164,0.992,0.9995266209804956
-"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition",0.957,0.0,5648.444,0.992,0.9995266209804956
+"Hemorrhage from placenta previa, delivered, with or without mention of antepartum condition",0.965,0.001,1201.263,0.992,0.9995266209804956
+Dyspareunia,0.964,0.001,1579.01,0.992,0.9995266209804956
+"Polyhydramnios, delivered, with or without mention of antepartum condition",0.963,0.0,2380.069,0.992,0.9995266209804956
+"Obstruction caused by malposition of fetus at onset of labor, delivered, with or without mention of antepartum condition",0.962,0.001,1657.205,0.992,0.9995266209804956
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition",0.957,0.0,5648.715,0.992,0.9995266209804956
 Suicide and self-inflicted poisoning by tranquilizers and other psychotropic agents,1.007,0.197,5.141,0.993,0.9995266209804956
-Hypochondriasis,0.969,0.001,866.743,0.993,0.9995266209804956
-Pregnancy with other poor obstetric history,0.968,0.0,2470.482,0.993,0.9995266209804956
-"Other and unspecified uterine inertia, delivered, with or without mention of antepartum condition",0.965,0.0,2031.437,0.993,0.9995266209804956
-Supervision of high-risk pregnancy with history of infertility,0.965,0.0,2445.004,0.993,0.9995266209804956
-"Liver and biliary tract disorders in pregnancy, delivered, with or without mention of antepartum condition",0.964,0.0,3075.879,0.993,0.9995266209804956
-"Maternal pyrexia during labor, unspecified, delivered, with or without mention of antepartum condition",0.963,0.0,5555.282,0.993,0.9995266209804956
-"Gestational (pregnancy-induced) hypertension without significant proteinuria, complicating childbirth",0.957,0.0,34335.926,0.993,0.9995266209804956
-"Spotting complicating pregnancy, delivered, with or without mention of antepartum condition",0.973,0.001,1638.984,0.994,0.9995266209804956
-"Recurrent pregnancy loss, delivered, with or without mention of antepartum condition",0.965,0.0,10827.039,0.994,0.9995266209804956
+Chronic hepatitis C with hepatic coma,1.002,0.619,1.622,0.993,0.9995266209804956
+Hypochondriasis,0.969,0.001,866.762,0.993,0.9995266209804956
+Pregnancy with other poor obstetric history,0.968,0.0,2470.575,0.993,0.9995266209804956
+"Other and unspecified uterine inertia, delivered, with or without mention of antepartum condition",0.965,0.0,2031.584,0.993,0.9995266209804956
+Supervision of high-risk pregnancy with history of infertility,0.965,0.0,2445.153,0.993,0.9995266209804956
+"Liver and biliary tract disorders in pregnancy, delivered, with or without mention of antepartum condition",0.964,0.0,3075.98,0.993,0.9995266209804956
+"Maternal pyrexia during labor, unspecified, delivered, with or without mention of antepartum condition",0.963,0.0,5555.322,0.993,0.9995266209804956
+"Gestational (pregnancy-induced) hypertension without significant proteinuria, complicating childbirth",0.957,0.0,34336.934,0.993,0.9995266209804956
+"Spotting complicating pregnancy, delivered, with or without mention of antepartum condition",0.973,0.001,1639.033,0.994,0.9995266209804956
+"Recurrent pregnancy loss, delivered, with or without mention of antepartum condition",0.965,0.0,10827.417,0.994,0.9995266209804956
 "Phlebitis and thrombophlebitis of upper extremities, unspecified",1.003,0.427,2.355,0.995,0.9995266209804956
-Supervision of high-risk pregnancy with history of abortion,0.972,0.0,5466.162,0.995,0.9995266209804956
-"Bariatric surgery status complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition",0.971,0.0,9239.194,0.995,0.9995266209804956
-"Other and unspecified cord entanglement, with compression, complicating labor and delivery, delivered, with or without mention of antepartum condition",0.971,0.0,10051.225,0.995,0.9995266209804956
-"Other cardiovascular diseases of mother, delivered, with or without mention of antepartum condition",0.97,0.0,18103.722,0.995,0.9995266209804956
-"High vaginal laceration, delivered, with or without mention of antepartum condition",0.969,0.0,14000.47,0.995,0.9995266209804956
+Supervision of high-risk pregnancy with history of abortion,0.972,0.0,5466.494,0.995,0.9995266209804956
+"Bariatric surgery status complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition",0.971,0.0,9239.518,0.995,0.9995266209804956
+"Other and unspecified cord entanglement, with compression, complicating labor and delivery, delivered, with or without mention of antepartum condition",0.971,0.0,10051.505,0.995,0.9995266209804956
+"Other cardiovascular diseases of mother, delivered, with or without mention of antepartum condition",0.97,0.0,18104.187,0.995,0.9995266209804956
+"High vaginal laceration, delivered, with or without mention of antepartum condition",0.969,0.0,14000.654,0.995,0.9995266209804956
 Acute pain due to trauma,1.002,0.459,2.189,0.996,0.9995266209804956
-"Retained portions of placenta or membranes, without hemorrhage, unspecified as to episode of care or not applicable",0.978,0.0,4620.295,0.996,0.9995266209804956
-"Retained placenta without hemorrhage, delivered, with mention of postpartum complication",0.977,0.0,21287.645,0.996,0.9995266209804956
-"Other complications of labor and delivery, delivered, with mention of postpartum complication",0.975,0.0,38415.5,0.996,0.9995266209804956
-"High head at term, delivered, with or without mention of antepartum condition",0.974,0.0,30566.849,0.996,0.9995266209804956
-"Shoulder (girdle) dystocia, delivered, with or without mention of antepartum condition",0.974,0.0,40086.485,0.996,0.9995266209804956
-Nonspecific abnormal findings in amniotic fluid,0.974,0.0,50646.128,0.996,0.9995266209804956
-"Precipitate labor, delivered, with or without mention of antepartum condition",0.972,0.0,79807.054,0.996,0.9995266209804956
-"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, delivered, with or without mention of antepartum condition",0.971,0.0,197992.807,0.996,0.9995266209804956
+"Retained portions of placenta or membranes, without hemorrhage, unspecified as to episode of care or not applicable",0.978,0.0,4620.428,0.996,0.9995266209804956
+"Retained placenta without hemorrhage, delivered, with mention of postpartum complication",0.977,0.0,21288.562,0.996,0.9995266209804956
+"Other complications of labor and delivery, delivered, with mention of postpartum complication",0.975,0.0,38416.675,0.996,0.9995266209804956
+"High head at term, delivered, with or without mention of antepartum condition",0.974,0.0,30567.918,0.996,0.9995266209804956
+"Shoulder (girdle) dystocia, delivered, with or without mention of antepartum condition",0.974,0.0,40087.128,0.996,0.9995266209804956
+Nonspecific abnormal findings in amniotic fluid,0.974,0.0,50647.344,0.996,0.9995266209804956
+"Precipitate labor, delivered, with or without mention of antepartum condition",0.972,0.0,79809.22,0.996,0.9995266209804956
+"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, delivered, with or without mention of antepartum condition",0.971,0.0,198007.492,0.996,0.9995266209804956
 "Closed fracture of scapula, unspecified part",1.002,0.417,2.405,0.997,0.9995266209804956
 Infection with microorganisms resistant to penicillins,0.999,0.592,1.687,0.997,0.9995266209804956
-"Unspecified hypertension complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition",0.98,0.0,9557.887,0.997,0.9995266209804956
-"Damage to pelvic joints and ligaments, delivered, with or without mention of antepartum condition",0.98,0.0,115996.359,0.997,0.9995266209804956
-"Other complications of labor and delivery, delivered, with or without mention of antepartum condition",0.979,0.0,486831.691,0.997,0.9995266209804956
-"Other specified complications of pregnancy, delivered, with mention of postpartum complication",0.978,0.0,71737.574,0.997,0.9995266209804956
-"Other injury to pelvic organs, delivered, with or without mention of antepartum condition",0.978,0.0,586425.082,0.997,0.9995266209804956
-"Onset (spontaneous) of labor after 37 completed weeks of gestation but before 39 completed weeks gestation, with delivery by (planned) cesarean section, delivered, with or without mention of antepartum condition",0.976,0.0,194467.992,0.997,0.9995266209804956
+"Unspecified hypertension complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition",0.98,0.0,9558.229,0.997,0.9995266209804956
+"Damage to pelvic joints and ligaments, delivered, with or without mention of antepartum condition",0.98,0.0,115999.106,0.997,0.9995266209804956
+"Other complications of labor and delivery, delivered, with or without mention of antepartum condition",0.979,0.0,486839.734,0.997,0.9995266209804956
+"Other specified complications of pregnancy, delivered, with mention of postpartum complication",0.978,0.0,71744.653,0.997,0.9995266209804956
+"Other injury to pelvic organs, delivered, with or without mention of antepartum condition",0.978,0.0,586448.523,0.997,0.9995266209804956
+"Onset (spontaneous) of labor after 37 completed weeks of gestation but before 39 completed weeks gestation, with delivery by (planned) cesarean section, delivered, with or without mention of antepartum condition",0.976,0.0,194477.098,0.997,0.9995266209804956
 Contusion of foot,1.003,0.134,7.526,0.998,0.9995266209804956
 Acquired absence of both cervix and uterus,1.0,0.754,1.326,0.998,0.9995266209804956
-"Epilepsy complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition",0.986,0.0,2657422.189,0.998,0.9995266209804956
-"Other complications of anesthesia or other sedation in labor and delivery, delivered, with or without mention of antepartum condition",0.986,0.0,591318.42,0.998,0.9995266209804956
-"Pre-existing hypertension with pre-eclampsia, complicating childbirth",0.985,0.0,2629788.262,0.998,0.9995266209804956
-Supervision of high-risk pregnancy with insufficient prenatal care,0.985,0.0,198484.892,0.998,0.9995266209804956
-"Prolapse of cord complicating labor and delivery, delivered, with or without mention of antepartum condition",0.984,0.0,113522.435,0.998,0.9995266209804956
-Severe pre-eclampsia complicating childbirth,0.98,0.0,4855951.27,0.998,0.9995266209804956
-"Fetopelvic disproportion, delivered, with or without mention of antepartum condition",0.978,0.0,1524442.151,0.998,0.9995266209804956
+"Epilepsy complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition",0.986,0.0,2657521.166,0.998,0.9995266209804956
+"Other complications of anesthesia or other sedation in labor and delivery, delivered, with or without mention of antepartum condition",0.986,0.0,591369.488,0.998,0.9995266209804956
+"Pre-existing hypertension with pre-eclampsia, complicating childbirth",0.985,0.0,2630005.165,0.998,0.9995266209804956
+Supervision of high-risk pregnancy with insufficient prenatal care,0.985,0.0,198490.845,0.998,0.9995266209804956
+"Prolapse of cord complicating labor and delivery, delivered, with or without mention of antepartum condition",0.984,0.0,113528.825,0.998,0.9995266209804956
+Severe pre-eclampsia complicating childbirth,0.98,0.0,4856350.506,0.998,0.9995266209804956
+"Fetopelvic disproportion, delivered, with or without mention of antepartum condition",0.978,0.0,1524461.146,0.998,0.9995266209804956
 Scar conditions and fibrosis of skin,1.001,0.253,3.961,0.999,0.9995266209804956
 "Poisoning by analgesics, antipyretics, and antirheumatics, undetermined whether accidentally or purposely inflicted",1.001,0.184,5.46,0.999,0.9995266209804956
-"Bone and joint disorders of back, pelvis, and lower limbs of mother, delivered, with or without mention of antepartum condition",0.993,0.0,2564405154.863,0.999,0.9995266209804956
-"Mild to moderate pre-eclampsia, complicating childbirth",0.989,0.0,14287951.623,0.999,0.9995266209804956
-"Unspecified pre-eclampsia, complicating childbirth",0.989,0.0,361750141.594,0.999,0.9995266209804956
-"Other pre-existing hypertension, complicating pregnancy, childbirth, and the puerperium, delivered, with or without mention of antepartum condition",0.988,0.0,1125242.788,0.999,0.9995266209804956
-"Congenital abnormalities of uterus, delivered, with or without mention of antepartum condition",0.988,0.0,38523717.08,0.999,0.9995266209804956
-"Prolonged second stage of labor, delivered, with or without mention of antepartum condition",0.988,0.0,53952719.319,0.999,0.9995266209804956
-"Maternal hypotension syndrome, delivered, with or without mention of antepartum condition",0.988,0.0,936215.237,0.999,0.9995266209804956
-"Other venous complications of pregnancy and the puerperium, delivered, with mention of postpartum complication",0.988,0.0,11080127.975,0.999,0.9995266209804956
-"Other congenital or acquired abnormality of cervix, delivered, with or without mention of antepartum condition",0.987,0.0,2440828.709,0.999,0.9995266209804956
-"Deep transverse arrest and persistent occipitoposterior position, delivered, with or without mention of antepartum condition",0.987,0.0,1351574.837,0.999,0.9995266209804956
-"Laceration of cervix, delivered, with or without mention of antepartum condition",0.987,0.0,16399541.344,0.999,0.9995266209804956
-"Other complications of anesthesia or other sedation in labor and delivery, delivered, with mention of postpartum complication",0.987,0.0,115887201715.406,0.999,0.9995266209804956
-"Other venous complications of pregnancy and the puerperium, delivered, with or without mention of antepartum condition",0.986,0.0,3156975.286,0.999,0.9995266209804956
-"Obstruction by bony pelvis during labor, delivered, with or without mention of antepartum condition",0.985,0.0,8027375.645,0.999,0.9995266209804956
-"Unspecified failed trial of labor, delivered, with or without mention of antepartum condition",0.985,0.0,26227860.498,0.999,0.9995266209804956
-"Other placental conditions, affecting management of mother, delivered, with or without mention of antepartum condition",1.001,0.0,7933.847,1.0,1.0
-"Generalized infection during labor, delivered, with or without mention of antepartum condition",0.993,0.0,628550818895.407,1.0,1.0
+"Bone and joint disorders of back, pelvis, and lower limbs of mother, delivered, with or without mention of antepartum condition",0.993,0.0,2564353335.86,0.999,0.9995266209804956
+"Mild to moderate pre-eclampsia, complicating childbirth",0.989,0.0,14288862.978,0.999,0.9995266209804956
+"Unspecified pre-eclampsia, complicating childbirth",0.989,0.0,361786639.214,0.999,0.9995266209804956
+"Other pre-existing hypertension, complicating pregnancy, childbirth, and the puerperium, delivered, with or without mention of antepartum condition",0.988,0.0,1125353.435,0.999,0.9995266209804956
+"Congenital abnormalities of uterus, delivered, with or without mention of antepartum condition",0.988,0.0,38526545.671,0.999,0.9995266209804956
+"Prolonged second stage of labor, delivered, with or without mention of antepartum condition",0.988,0.0,53955261.467,0.999,0.9995266209804956
+"Maternal hypotension syndrome, delivered, with or without mention of antepartum condition",0.988,0.0,936337.44,0.999,0.9995266209804956
+"Other venous complications of pregnancy and the puerperium, delivered, with mention of postpartum complication",0.988,0.0,11081117.096,0.999,0.9995266209804956
+"Other congenital or acquired abnormality of cervix, delivered, with or without mention of antepartum condition",0.987,0.0,2440945.06,0.999,0.9995266209804956
+"Deep transverse arrest and persistent occipitoposterior position, delivered, with or without mention of antepartum condition",0.987,0.0,1351629.422,0.999,0.9995266209804956
+"Laceration of cervix, delivered, with or without mention of antepartum condition",0.987,0.0,16400705.925,0.999,0.9995266209804956
+"Other complications of anesthesia or other sedation in labor and delivery, delivered, with mention of postpartum complication",0.987,0.0,115917191631.423,0.999,0.9995266209804956
+"Other venous complications of pregnancy and the puerperium, delivered, with or without mention of antepartum condition",0.986,0.0,3157319.166,0.999,0.9995266209804956
+"Obstruction by bony pelvis during labor, delivered, with or without mention of antepartum condition",0.985,0.0,8027542.992,0.999,0.9995266209804956
+"Unspecified failed trial of labor, delivered, with or without mention of antepartum condition",0.985,0.0,26229071.753,0.999,0.9995266209804956
+"Other placental conditions, affecting management of mother, delivered, with or without mention of antepartum condition",1.001,0.0,7934.017,1.0,1.0
+"Generalized infection during labor, delivered, with or without mention of antepartum condition",0.993,0.0,628583253292.911,1.0,1.0
